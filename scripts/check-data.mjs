@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+const d = 'docs/research/brandmylaptop-com-284b5fbe/';
+const cards = JSON.parse(fs.readFileSync(d + 'root-7280be29/cards-full.json', 'utf8'));
+const withStickers = cards.filter((c) => c.lid.slots.some((s) => s.img));
+console.log('=== SAMPLE CARD WITH STICKERS ===');
+const c = withStickers[0];
+console.log(JSON.stringify({ ...c, lid: { slots: c.lid.slots.filter((s) => s.img || s.label) } }, null, 1).slice(0, 2600));
+console.log('\n=== brand rows sample ===');
+const rows = JSON.parse(fs.readFileSync(d + 'brands-b0addea9/brands-rows.json', 'utf8'));
+console.log(JSON.stringify(rows.slice(0, 3), null, 1));
+console.log('total rows', rows.length);
+console.log('\n=== cards without stickers (first 3 titles) ===');
+cards.filter((x) => !x.lid.slots.some((s) => s.img)).slice(0, 3).forEach((x) => console.log(' -', (x.title || '').slice(0, 70), '|', x.price, '|', x.spots));
+console.log('\n=== stamps ===');
+cards.filter((x) => x.stamp).slice(0, 5).forEach((x) => console.log(' -', x.stamp, '|', x.stampClass.slice(0, 40)));

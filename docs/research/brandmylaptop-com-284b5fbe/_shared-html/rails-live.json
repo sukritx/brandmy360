@@ -1,0 +1,110 @@
+[
+ {
+  "side": "left",
+  "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:w-[230px] left-2 2xl:left-5",
+  "lis": [
+   {
+    "placeholder": false,
+    "text": "Azal.ai | Intelligence Software",
+    "href": "https://x.com/ProjectAzal",
+    "logo": "https://rihdbhaulfvzfhbafmax.supabase.co/storage/v1/object/public/logos/sponsors/e9348679-479b-47f4-a9a7-4eb3d4b3dede.svg",
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-hairline bg-white transition-shadow hover:shadow-[0_2px_12px_rgba(0,0,0,0.08)]"
+   },
+   {
+    "placeholder": false,
+    "text": "RankControl | AI SEO Platform",
+    "href": "https://rctrl.com?ref=brandmylaptop",
+    "logo": "https://rihdbhaulfvzfhbafmax.supabase.co/storage/v1/object/public/logos/sponsors/cb023ec8-1b56-4a46-8735-5eee8a2b5537.png",
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-hairline bg-white transition-shadow hover:shadow-[0_2px_12px_rgba(0,0,0,0.08)]"
+   },
+   {
+    "placeholder": false,
+    "text": "TinyLaunch | Grow your DR on autopilot!",
+    "href": "https://www.tinylaunch.com/submission-service?ref=brandmylaptop",
+    "logo": "https://rihdbhaulfvzfhbafmax.supabase.co/storage/v1/object/public/logos/sponsors/e0fb9007-b140-46dc-9637-d4f3eb3043f7.png",
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-hairline bg-white transition-shadow hover:shadow-[0_2px_12px_rgba(0,0,0,0.08)]"
+   },
+   {
+    "placeholder": true,
+    "text": "Your startup here",
+    "href": "/sponsor?slot=L4",
+    "logo": null,
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue"
+   },
+   {
+    "placeholder": true,
+    "text": "Your startup here",
+    "href": "/sponsor?slot=L5",
+    "logo": null,
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue"
+   },
+   {
+    "placeholder": true,
+    "text": "Your startup here",
+    "href": "/sponsor?slot=L6",
+    "logo": null,
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue"
+   }
+  ]
+ },
+ {
+  "side": "right",
+  "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:w-[230px] right-2 2xl:right-5",
+  "lis": [
+   {
+    "placeholder": true,
+    "text": "Your startup here",
+    "href": "/sponsor?slot=R1",
+    "logo": null,
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue"
+   },
+   {
+    "placeholder": true,
+    "text": "Your startup here",
+    "href": "/sponsor?slot=R2",
+    "logo": null,
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue"
+   },
+   {
+    "placeholder": true,
+    "text": "Your startup here",
+    "href": "/sponsor?slot=R3",
+    "logo": null,
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue"
+   },
+   {
+    "placeholder": true,
+    "text": "Your startup here",
+    "href": "/sponsor?slot=R4",
+    "logo": null,
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue"
+   },
+   {
+    "placeholder": true,
+    "text": "Your startup here",
+    "href": "/sponsor?slot=R5",
+    "logo": null,
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue"
+   },
+   {
+    "placeholder": true,
+    "text": "Your startup here",
+    "href": "/sponsor?slot=R6",
+    "logo": null,
+    "liCls": "pointer-events-auto flex min-h-0 flex-1 basis-0",
+    "aCls": "flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue"
+   }
+  ]
+ }
+]

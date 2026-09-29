@@ -1,0 +1,413 @@
+[
+ {
+  "step": "Machine",
+  "buttons": [
+   {
+    "t": "You need a Stripe account to be paid",
+    "cls": "text-blue underline-offset-2 hover:underline",
+    "disabled": false
+   },
+   {
+    "t": "Machine",
+    "cls": "rounded-full px-2.5 py-1 transition-colors bg-ink text-white",
+    "disabled": false
+   },
+   {
+    "t": "Ownership",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Showcase",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Layout",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Prices",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Listing",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Sticker",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "You",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Publish",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "A MacThe drawn lid wears the Apple mark,",
+    "cls": "flex flex-col items-start justify-start rounded-2xl border p",
+    "disabled": false
+   },
+   {
+    "t": "A PCA bare lid. No maker's mark — it is ",
+    "cls": "flex flex-col items-start justify-start rounded-2xl border p",
+    "disabled": false
+   },
+   {
+    "t": "13″",
+    "cls": "flex-1 rounded-2xl border px-2 py-3 text-center transition-c",
+    "disabled": false
+   },
+   {
+    "t": "14″",
+    "cls": "flex-1 rounded-2xl border px-2 py-3 text-center transition-c",
+    "disabled": false
+   },
+   {
+    "t": "15″",
+    "cls": "flex-1 rounded-2xl border px-2 py-3 text-center transition-c",
+    "disabled": false
+   },
+   {
+    "t": "16″",
+    "cls": "flex-1 rounded-2xl border px-2 py-3 text-center transition-c",
+    "disabled": false
+   },
+   {
+    "t": "Silver",
+    "cls": "flex items-center gap-2 rounded-full border px-3 py-2 text-[",
+    "disabled": false
+   },
+   {
+    "t": "Sky Blue",
+    "cls": "flex items-center gap-2 rounded-full border px-3 py-2 text-[",
+    "disabled": false
+   },
+   {
+    "t": "Starlight",
+    "cls": "flex items-center gap-2 rounded-full border px-3 py-2 text-[",
+    "disabled": false
+   },
+   {
+    "t": "Midnight",
+    "cls": "flex items-center gap-2 rounded-full border px-3 py-2 text-[",
+    "disabled": false
+   },
+   {
+    "t": "Space Black",
+    "cls": "flex items-center gap-2 rounded-full border px-3 py-2 text-[",
+    "disabled": false
+   },
+   {
+    "t": "Space Grey",
+    "cls": "flex items-center gap-2 rounded-full border px-3 py-2 text-[",
+    "disabled": false
+   },
+   {
+    "t": "Continue",
+    "cls": "rounded-full bg-blue px-7 py-3 text-[15px] font-medium text-",
+    "disabled": false
+   },
+   {
+    "t": "395 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "495 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "395 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "125 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "145 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "145 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "125 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   }
+  ],
+  "continueDisabled": true,
+  "continueText": "Publish"
+ },
+ {
+  "step": "Ownership",
+  "buttons": [
+   {
+    "t": "You need a Stripe account to be paid",
+    "cls": "text-blue underline-offset-2 hover:underline",
+    "disabled": false
+   },
+   {
+    "t": "Machine",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-ink-2 hover:",
+    "disabled": false
+   },
+   {
+    "t": "Ownership",
+    "cls": "rounded-full px-2.5 py-1 transition-colors bg-ink text-white",
+    "disabled": false
+   },
+   {
+    "t": "Showcase",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Layout",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Prices",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Listing",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Sticker",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "You",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Publish",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "I own itWhat it raises is yours. Set a t",
+    "cls": "flex flex-col items-start justify-start rounded-2xl border p",
+    "disabled": false
+   },
+   {
+    "t": "I'm funding itThe spots pay for the mach",
+    "cls": "flex flex-col items-start justify-start rounded-2xl border p",
+    "disabled": false
+   },
+   {
+    "t": "Back",
+    "cls": "rounded-full border border-hairline px-6 py-3 text-[15px] fo",
+    "disabled": false
+   },
+   {
+    "t": "Continue",
+    "cls": "rounded-full bg-blue px-7 py-3 text-[15px] font-medium text-",
+    "disabled": false
+   },
+   {
+    "t": "395 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "495 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "395 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "125 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "145 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "145 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "125 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "195 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "245 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "195 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   }
+  ],
+  "continueDisabled": true,
+  "continueText": "Publish"
+ },
+ {
+  "step": "Showcase",
+  "buttons": [
+   {
+    "t": "You need a Stripe account to be paid",
+    "cls": "text-blue underline-offset-2 hover:underline",
+    "disabled": false
+   },
+   {
+    "t": "Machine",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-ink-2 hover:",
+    "disabled": false
+   },
+   {
+    "t": "Ownership",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-ink-2 hover:",
+    "disabled": false
+   },
+   {
+    "t": "Showcase",
+    "cls": "rounded-full px-2.5 py-1 transition-colors bg-ink text-white",
+    "disabled": false
+   },
+   {
+    "t": "Layout",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Prices",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Listing",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Sticker",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "You",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Publish",
+    "cls": "rounded-full px-2.5 py-1 transition-colors text-hairline",
+    "disabled": true
+   },
+   {
+    "t": "Choose",
+    "cls": "flex w-full min-w-0 max-w-full items-center justify-between ",
+    "disabled": false
+   },
+   {
+    "t": "Pick up to three",
+    "cls": "flex w-full min-w-0 max-w-full items-center justify-between ",
+    "disabled": false
+   },
+   {
+    "t": "Back",
+    "cls": "rounded-full border border-hairline px-6 py-3 text-[15px] fo",
+    "disabled": false
+   },
+   {
+    "t": "Continue",
+    "cls": "rounded-full bg-blue px-7 py-3 text-[15px] font-medium text-",
+    "disabled": true
+   },
+   {
+    "t": "395 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "495 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "395 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "125 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "145 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "145 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "125 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "195 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "245 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   },
+   {
+    "t": "195 €",
+    "cls": "relative flex h-full w-full flex-col items-center justify-ce",
+    "disabled": false
+   }
+  ],
+  "continueDisabled": true,
+  "continueText": "Publish"
+ }
+]

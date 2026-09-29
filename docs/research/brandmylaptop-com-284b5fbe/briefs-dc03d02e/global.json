@@ -1,0 +1,157 @@
+{
+  "rootVars": {
+    "--background": "#fff",
+    "--surface": "#f5f5f7",
+    "--ink": "#1d1d1f",
+    "--ink-2": "#56565c",
+    "--hairline": "#d2d2d7",
+    "--blue": "#0071e3",
+    "--blue-hover": "#0077ed",
+    "--green": "#1a7f37",
+    "--apple-green": "#16a34a",
+    "--amber": "#d97706",
+    "--amber-deep": "#a34a06",
+    "--lid-1": "#ececed",
+    "--lid-2": "#dcdcdf",
+    "--lid-3": "#c8c8cd",
+    "--lid-dark-1": "#3d3d42",
+    "--lid-dark-2": "#2e2e33",
+    "--lid-dark-3": "#202024",
+    "--font-system": "-apple-system, BlinkMacSystemFont, \"SF Pro Display\", \"SF Pro Text\", var(--font-inter), \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "--lightningcss-light": "initial",
+    "--lightningcss-dark": ""
+  },
+  "fonts": [
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    }
+  ],
+  "fontLinks": [
+    "",
+    "https://brandmylaptop.com/_next/static/immutable/chunks/3ik5ng8dwsw5p.css",
+    "https://brandmylaptop.com/_next/static/immutable/chunks/12_regqf-7hys.js",
+    "https://datafa.st/js/script.cookieless.js",
+    "https://brandmylaptop.com/_next/static/immutable/media/83afe278b6a6bb3c-s.p.45535valc9rzk.woff2",
+    "https://rihdbhaulfvzfhbafmax.supabase.co/storage/v1/object/public/logos/f8ac6257-3406-4009-8a67-effb110b0fe0/391d41f1-7a71-4d18-ab1b-ebf8f87698be.png"
+  ],
+  "favicons": [
+    {
+      "rel": "manifest",
+      "href": "https://brandmylaptop.com/site.webmanifest",
+      "sizes": ""
+    },
+    {
+      "rel": "shortcut icon",
+      "href": "https://brandmylaptop.com/favicon.ico",
+      "sizes": ""
+    },
+    {
+      "rel": "icon",
+      "href": "https://brandmylaptop.com/favicon-32x32.png",
+      "sizes": "32x32"
+    },
+    {
+      "rel": "icon",
+      "href": "https://brandmylaptop.com/favicon-16x16.png",
+      "sizes": "16x16"
+    },
+    {
+      "rel": "icon",
+      "href": "https://brandmylaptop.com/icon-192.png",
+      "sizes": "192x192"
+    },
+    {
+      "rel": "icon",
+      "href": "https://brandmylaptop.com/favicon.ico",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://brandmylaptop.com/apple-touch-icon.png",
+      "sizes": "180x180"
+    }
+  ],
+  "bodyFont": "-apple-system, BlinkMacSystemFont, \"SF Pro Display\", \"SF Pro Text\", Inter, \"Inter Fallback\", \"Segoe UI\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyColor": "rgb(29, 29, 31)",
+  "navHTML": "<nav class=\"sticky top-0 z-50 border-b border-hairline/70 bg-white/70 backdrop-blur-xl\"><div class=\"mx-auto flex h-13 max-w-6xl items-center justify-between px-6 py-3\"><a class=\"flex items-center gap-2 text-[13px] font-semibold tracking-[-0.01em] sm:gap-2.5 sm:text-[15px]\" href=\"/\"><img alt=\"\" width=\"256\" height=\"171\" decoding=\"async\" data-nimg=\"1\" class=\"h-7 w-auto\" style=\"color:transparent\" sizes=\"42px\" srcset=\"/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=3840&amp;q=75 3840w\" src=\"/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=3840&amp;q=75\"><img src=\"/stickers/brandmylaptop.png\" alt=\"BrandMyLaptop\" class=\"h-[22px] w-auto -rotate-2 sm:h-6 [filter:drop-shadow(0_0.6px_1px_rgba(0,0,0,0.25))]\"></a><div class=\"hidden items-center gap-7 text-[13px] text-ink-2 md:flex\"><a class=\"transition-colors hover:text-ink\" href=\"/#laptops\">Laptops</a><a class=\"transition-colors hover:text-ink\" href=\"/brands\">Brands</a><a class=\"transition-colors hover:text-ink\" href=\"/briefs\">Briefs</a><a class=\"transition-colors hover:text-ink\" href=\"/stats\">Stats</a><a class=\"transition-colors hover:text-ink\" href=\"/#how\">How it works</a></div><div class=\"flex items-center gap-3\"><span class=\"hidden md:block\"><label class=\"relative flex items-center\"><span class=\"sr-only\">Display currency</span><select class=\"appearance-none rounded-full bg-hairline/50 py-1 pl-2.5 pr-6 text-[12px] font-medium text-ink outline-none transition-colors hover:bg-hairline focus:ring-1 focus:ring-blue\"><option value=\"EUR\">€<!-- --> <!-- -->EUR</option><option value=\"USD\" selected=\"\">$<!-- --> <!-- -->USD</option><option value=\"GBP\">£<!-- --> <!-- -->GBP</option></select><svg aria-hidden=\"true\" viewBox=\"0 0 10 6\" class=\"pointer-events-none absolute right-2 h-[5px] w-[9px] fill-none stroke-ink-2\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M1 1l4 4 4-4\"></path></svg></label></span><a class=\"relative rounded-full bg-ink px-4 py-1.5 text-[13px] font-medium text-white transition-opacity hover:opacity-85\" href=\"/sell\">Sell your lid</a><button type=\"button\" aria-expanded=\"false\" aria-controls=\"mobile-menu\" aria-label=\"Open menu\" class=\"-mr-2 grid h-9 w-9 place-items-center rounded-full text-ink transition-colors hover:bg-black/5 md:hidden\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"h-5 w-5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linecap=\"round\"><path d=\"M4 7h16M4 12h16M4 17h16\"></path></svg></button></div></div></nav>",
+  "navStyles": {
+    "height": "53px",
+    "padding": "0px",
+    "backgroundColor": "oklab(0.999994 0.0000455677 0.0000200868 / 0.7)",
+    "backdropFilter": "blur(24px)",
+    "borderBottom": "1px solid oklab(0.865237 0.00195077 -0.00653809 / 0.7)",
+    "position": "sticky",
+    "zIndex": "50",
+    "display": "block",
+    "alignItems": "normal",
+    "justifyContent": "normal",
+    "gap": "normal",
+    "maxWidth": "none"
+  },
+  "navInner": {
+    "maxWidth": "1152px",
+    "padding": "12px 24px",
+    "height": "52px",
+    "display": "flex",
+    "alignItems": "center",
+    "justifyContent": "space-between",
+    "gap": "normal"
+  },
+  "footerHTML": "<footer class=\"border-t border-hairline\"><div class=\"mx-auto max-w-5xl px-6 py-12\"><div class=\"flex flex-col gap-10 sm:flex-row sm:justify-between\"><div class=\"max-w-xs\"><a class=\"flex items-center gap-2.5 text-[15px] font-semibold tracking-[-0.01em]\" href=\"/\"><img alt=\"\" loading=\"lazy\" width=\"256\" height=\"171\" decoding=\"async\" data-nimg=\"1\" class=\"h-7 w-auto\" style=\"color:transparent\" sizes=\"42px\" srcset=\"/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=3840&amp;q=75 3840w\" src=\"/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Flogo-small.1zmf4nfgeac61.png&amp;w=3840&amp;q=75\">BrandMyLaptop</a><p class=\"mt-3 text-[15px] font-medium tracking-[-0.01em]\">Print stickers, print money.</p><div class=\"mt-5 flex items-center gap-2 text-[13px] text-ink-2\">built by<img alt=\"\" loading=\"lazy\" width=\"1424\" height=\"1424\" decoding=\"async\" data-nimg=\"1\" class=\"h-5 w-5 rounded-full object-cover\" style=\"color:transparent\" sizes=\"20px\" srcset=\"/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=32&amp;q=75 32w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=48&amp;q=75 48w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=64&amp;q=75 64w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=96&amp;q=75 96w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=128&amp;q=75 128w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=256&amp;q=75 256w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=384&amp;q=75 384w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=3840&amp;q=75 3840w\" src=\"/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fvincent.2710md5e2w-ud.webp&amp;w=3840&amp;q=75\"><span class=\"font-medium text-ink\">Vincent</span><a href=\"https://x.com/vynsedev\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Vincent on X\" class=\"ml-1 transition-colors hover:text-ink\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"h-3.5 w-3.5 shrink-0\"><path fill=\"#000000\" d=\"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932zM17.61 20.644h2.039L6.486 3.24H4.298z\"></path></svg></a><a href=\"https://www.linkedin.com/in/vynse/\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Vincent on LinkedIn\" class=\"transition-colors hover:text-ink\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"h-3.5 w-3.5 shrink-0\"><path fill=\"#0A66C2\" d=\"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z\"></path></svg></a></div><p class=\"mt-4 max-w-[34ch] text-[12px] leading-relaxed text-ink-2\">Started as<!-- --> <a href=\"https://brandmymac.com?ref=bml-footer\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"font-medium text-ink hover:underline\">BrandMyMac</a> <!-- -->— one MacBook, twenty sticker spots, $9,690 raised, goal passed 327%. This is that, for everybody else.</p></div><nav class=\"flex flex-wrap gap-10 sm:gap-16\"><div><h2 class=\"text-[13px] font-medium\">Marketplace</h2><ul class=\"mt-3 space-y-2 text-[13px] text-ink-2\"><li><a class=\"hover:text-ink\" href=\"/\">All laptops</a></li><li><a class=\"hover:text-ink\" href=\"/sell\">Sell your laptop</a></li><li><a class=\"hover:text-ink\" href=\"/brands\">Brands buying here</a></li><li><a class=\"hover:text-ink\" href=\"/stats\">Stats</a></li><li><a class=\"hover:text-ink\" href=\"/sponsor\">Sponsor the site</a></li><li><a class=\"hover:text-ink\" href=\"/campaign\">Book sticker spots</a></li><li><a class=\"hover:text-ink\" href=\"/dashboard\">Your dashboard</a></li></ul></div><div><h2 class=\"text-[13px] font-medium\">About</h2><ul class=\"mt-3 space-y-2 text-[13px] text-ink-2\"><li><a class=\"hover:text-ink\" href=\"/#how\">How it works</a></li><li><a class=\"hover:text-ink\" href=\"/#faq\">Questions</a></li><li><a class=\"hover:text-ink\" href=\"/newsletter\">Newsletter</a></li></ul></div><div><h2 class=\"text-[13px] font-medium\">Laptops</h2><ul class=\"mt-3 space-y-2 text-[13px] text-ink-2\"><li><a class=\"hover:text-ink\" href=\"/laptops\">All laptops</a></li><li><a class=\"hover:text-ink\" href=\"/laptops/coworking-spaces-and-cafes\">In coworking spaces</a></li><li><a class=\"hover:text-ink\" href=\"/laptops/conferences-and-meetups\">At conferences</a></li><li><a class=\"hover:text-ink\" href=\"/laptops/business-travel\">On business travel</a></li><li><a class=\"hover:text-ink\" href=\"/laptops/client-and-investor-meetings\">In client meetings</a></li><li><a class=\"hover:text-ink\" href=\"/laptops/campuses-and-universities\">On campus</a></li><li><a class=\"hover:text-ink\" href=\"/laptops/creators-posting-in-public\">Posting in public</a></li></ul></div></nav></div><div class=\"mt-12 flex flex-col gap-4 border-t border-hairline pt-6 sm:flex-row sm:items-center sm:justify-between\"><p class=\"max-w-[64ch] text-[12px] leading-relaxed text-ink-2\">Stickers are paid placements, not endorsements. <!-- -->BrandMyLaptop<!-- --> is not affiliated with, endorsed by or sponsored by Apple&nbsp;Inc. or any laptop manufacturer.</p><div class=\"flex min-w-0 flex-wrap items-center gap-x-4 gap-y-2 sm:shrink-0\"><label class=\"relative flex items-center\"><span class=\"sr-only\">Display currency</span><select class=\"appearance-none rounded-full bg-hairline/50 py-1 pl-2.5 pr-6 text-[12px] font-medium text-ink outline-none transition-colors hover:bg-hairline focus:ring-1 focus:ring-blue\"><option value=\"EUR\">€<!-- --> <!-- -->EUR</option><option value=\"USD\" selected=\"\">$<!-- --> <!-- -->USD</option><option value=\"GBP\">£<!-- --> <!-- -->GBP</option></select><svg aria-hidden=\"true\" viewBox=\"0 0 10 6\" class=\"pointer-events-none absolute right-2 h-[5px] w-[9px] fill-none stroke-ink-2\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M1 1l4 4 4-4\"></path></svg></label><nav class=\"flex flex-wrap items-center gap-x-4 gap-y-2 text-[12px] text-ink-2\"><a class=\"hover:text-ink\" href=\"/terms\">Terms</a><a class=\"hover:text-ink\" href=\"/privacy\">Privacy</a><a class=\"hover:text-ink\" href=\"/legal\">Legal</a><a href=\"mailto:vincent@brandmylaptop.com\" class=\"hover:text-ink\">Contact</a></nav></div></div><ul class=\"mt-8 flex flex-wrap items-center gap-3\"><li><a href=\"https://www.uneed.best/tool/brandmylaptop\" title=\"Uneed Product of the Day\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block opacity-80 transition-opacity hover:opacity-100\"><img src=\"https://www.uneed.best/POTD1A.png\" alt=\"Uneed Product of the Day\" width=\"179\" height=\"48\" loading=\"lazy\" class=\"h-12 w-auto max-w-full\"></a></li><li><a href=\"https://www.producthunt.com/products/brandmylaptop?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-brandmylaptop\" title=\"BrandMyLaptop on Product Hunt\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block opacity-80 transition-opacity hover:opacity-100\"><img src=\"https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1235109&amp;theme=light\" alt=\"BrandMyLaptop on Product Hunt\" width=\"250\" height=\"54\" loading=\"lazy\" class=\"h-12 w-auto max-w-full\"></a></li><li><a href=\"https://www.tinyshelf.co/?ref=brandmylaptop.com\" title=\"Featured on tinyshelf\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block opacity-80 transition-opacity hover:opacity-100\"><img src=\"https://www.tinyshelf.co/badge/tinyshelf-badge-light-5ca4026a.svg\" alt=\"Featured on tinyshelf\" width=\"216\" height=\"64\" loading=\"lazy\" class=\"h-12 w-auto max-w-full\"></a></li><li><a href=\"https://yourwebsitescore.com/certified-websites/brandmylaptop.com\" title=\"Monitor your website with YourWebsiteScore\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block opacity-80 transition-opacity hover:opacity-100\"><img src=\"https://yourwebsitescore.com/api/badge/brandmylaptop.com\" alt=\"Monitor your website with YourWebsiteScore\" width=\"238\" height=\"50\" loading=\"lazy\" class=\"h-12 w-auto max-w-full\"></a></li><li><a href=\"https://startupfa.me/s/brandmylaptop?utm_source=brandmylaptop.com\" title=\"BrandMyLaptop - Startup Fame Highlight\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block opacity-80 transition-opacity hover:opacity-100\"><img src=\"https://startupfa.me/badges/highlight-badge.webp\" alt=\"BrandMyLaptop - Startup Fame Highlight\" width=\"228\" height=\"54\" loading=\"lazy\" class=\"h-12 w-auto max-w-full\"></a></li><li><a href=\"https://tinylaunch.com\" title=\"TinyLaunch — launching soon\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"block opacity-80 transition-opacity hover:opacity-100\"><img src=\"/tinylaunch-badge.svg\" alt=\"TinyLaunch — launching soon\" width=\"158\" height=\"48\" loading=\"lazy\" class=\"h-12 w-auto max-w-full\"></a></li></ul></div></footer>",
+  "asides": [
+    "<aside aria-label=\"Sponsors\" data-overlay=\"\" class=\"pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:w-[230px] left-2 2xl:left-5\"><p class=\"mb-2 shrink-0 text-[11px] uppercase tracking-wide text-ink-2/70\">Sponsors</p><ul class=\"flex min-h-0 flex-1 flex-col gap-3\"><li class=\"pointer-events-auto flex min-h-0 flex-1 basis-0\"><a href=\"https://x.com/ProjectAzal\" target=\"_blank\" rel=\"noopener noreferrer sponsored\" class=\"flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-hairline bg-white transition-shadow hover:shadow-[0_2px_12px_rgba(0,0,0,0.08)]\"><img alt=\"Azal.ai\" class=\"min-h-0 max-h-[46px] w-auto flex-1 object-contain max-w-[70%]\" src=\"https://rihdbhaulfvzfhbafmax.supabase.co/storage/v1/object/public/logos/sponsors/e9348679-479b-47f4-a9a7-4eb3d4b3dede.svg\"><span class=\"contents\"><span class=\"line-clamp-2 min-[1800px]:text-[13px] w-full shrink-0 truncate text-[12px] font-medium leading-tight\">Azal.ai</span><span class=\"-mt-1 w-full shrink-0 truncate text-[10px] leading-tight text-ink-2\">Intelligence Software</span></span></a></li><li class=\"pointer-events-auto flex min-h-0 flex-1 basis-0\"><a href=\"https://rctrl.com?ref=brandmylaptop\" target=\"_blank\" rel=\"noopener noreferrer sponsored\" class=\"flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-hairline bg-white transition-shadow hover:shadow-[0_2px_12px_rgba(0,0,0,0.08)]\"><img alt=\"RankControl\" class=\"min-h-0 max-h-[46px] w-auto flex-1 object-contain max-w-[70%]\" src=\"https://rihdbhaulfvzfhbafmax.supabase.co/storage/v1/object/public/logos/sponsors/cb023ec8-1b56-4a46-8735-5eee8a2b5537.png\"><span class=\"contents\"><span class=\"line-clamp-2 min-[1800px]:text-[13px] w-full shrink-0 truncate text-[12px] font-medium leading-tight\">RankControl</span><span class=\"-mt-1 w-full shrink-0 truncate text-[10px] leading-tight text-ink-2\">AI SEO Platform</span></span></a></li><li class=\"pointer-events-auto flex min-h-0 flex-1 basis-0\"><a href=\"https://www.tinylaunch.com/submission-service?ref=brandmylaptop\" target=\"_blank\" rel=\"noopener noreferrer sponsored\" class=\"flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-hairline bg-white transition-shadow hover:shadow-[0_2px_12px_rgba(0,0,0,0.08)]\"><img alt=\"TinyLaunch\" class=\"min-h-0 max-h-[46px] w-auto flex-1 object-contain max-w-[70%]\" src=\"https://rihdbhaulfvzfhbafmax.supabase.co/storage/v1/object/public/logos/sponsors/e0fb9007-b140-46dc-9637-d4f3eb3043f7.png\"><span class=\"contents\"><span class=\"line-clamp-2 min-[1800px]:text-[13px] w-full shrink-0 truncate text-[12px] font-medium leading-tight\">TinyLaunch</span><span class=\"-mt-1 w-full shrink-0 truncate text-[10px] leading-tight text-ink-2\">Grow your DR on autopilot!</span></span></a></li><li class=\"pointer-events-auto flex min-h-0 flex-1 basis-0\"><a class=\"flex w-",
+    "<aside aria-label=\"Sponsors\" data-overlay=\"\" class=\"pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:w-[230px] right-2 2xl:right-5\"><p class=\"mb-2 shrink-0 text-[11px] uppercase tracking-wide text-ink-2/70\">Sponsors</p><ul class=\"flex min-h-0 flex-1 flex-col gap-3\"><li class=\"pointer-events-auto flex min-h-0 flex-1 basis-0\"><a class=\"flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue\" href=\"/sponsor?slot=R1\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"h-5 w-5 min-h-0 shrink\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 11v2a1 1 0 0 0 1 1h2.6a2 2 0 0 1 .9.2l7 3.5a1 1 0 0 0 1.5-.9V7.2a1 1 0 0 0-1.5-.9l-7 3.5a2 2 0 0 1-.9.2H4a1 1 0 0 0-1 1Z\"></path><path d=\"M18 9.5a3 3 0 0 1 0 5\"></path><path d=\"M7.5 14.2V19a1 1 0 0 0 1 1h1.2a1 1 0 0 0 1-1v-3.3\"></path></svg><span class=\"text-[13px] shrink-0 font-medium\">Your startup here</span></a></li><li class=\"pointer-events-auto flex min-h-0 flex-1 basis-0\"><a class=\"flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue\" href=\"/sponsor?slot=R2\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"h-5 w-5 min-h-0 shrink\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 11v2a1 1 0 0 0 1 1h2.6a2 2 0 0 1 .9.2l7 3.5a1 1 0 0 0 1.5-.9V7.2a1 1 0 0 0-1.5-.9l-7 3.5a2 2 0 0 1-.9.2H4a1 1 0 0 0-1 1Z\"></path><path d=\"M18 9.5a3 3 0 0 1 0 5\"></path><path d=\"M7.5 14.2V19a1 1 0 0 0 1 1h1.2a1 1 0 0 0 1-1v-3.3\"></path></svg><span class=\"text-[13px] shrink-0 font-medium\">Your startup here</span></a></li><li class=\"pointer-events-auto flex min-h-0 flex-1 basis-0\"><a class=\"flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white text-ink-2/70 transition-colors hover:border-blue hover:text-blue\" href=\"/sponsor?slot=R3\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"h-5 w-5 min-h-0 shrink\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 11v2a1 1 0 0 0 1 1h2.6a2 2 0 0 1 .9.2l7 3.5a1 1 0 0 0 1.5-.9V7.2a1 1 0 0 0-1.5-.9l-7 3.5a2 2 0 0 1-.9.2H4a1 1 0 0 0-1 1Z\"></path><path d=\"M18 9.5a3 3 0 0 1 0 5\"></path><path d=\"M7.5 14.2V19a1 1 0 0 0 1 1h1.2a1 1 0 0 0 1-1v-3.3\"></path></svg><span class=\"text-[13px] shrink-0 font-medium\">Your startup here</span></a></li><li class=\"pointer-events-auto flex min-h-0 flex-1 basis-0\"><a class=\"flex w-full flex-col items-center justify-center overflow-hidden rounded-2xl border px-3 text-center gap-2 py-4 border-dashed border-hairline bg-white te"
+  ],
+  "htmlClass": "inter_c15e96cb-module__0bjUvq__variable",
+  "bodyClass": "has-ads has-ad-rails",
+  "scrollH": 2014,
+  "scrollW": 1440,
+  "stylesheetCount": 1,
+  "hasLenis": false
+}

@@ -1,0 +1,65 @@
+{
+ "containerW": "244.656px",
+ "slots": [
+  {
+   "area": "grid-area:1 / 1 / auto / span 2",
+   "img": "macpaw.png",
+   "imgBox": "42x29",
+   "cell": "74x51"
+  },
+  {
+   "area": "grid-area:1 / 3 / auto / span 2",
+   "img": "see-io.png",
+   "imgBox": "65x19",
+   "cell": "74x51"
+  },
+  {
+   "area": "grid-area:1 / 5 / auto / span 2",
+   "img": "privatealps.png",
+   "imgBox": "17x17",
+   "cell": "74x51"
+  },
+  {
+   "area": "grid-area:2 / 1 / auto / span 1",
+   "img": "draftline-fantasy.png",
+   "imgBox": "16x16",
+   "cell": "35x46"
+  },
+  {
+   "area": "grid-area:2 / 2 / auto / span 1",
+   "img": "surf-office.png",
+   "imgBox": "31x18",
+   "cell": "35x46"
+  },
+  {
+   "area": "grid-area:2 / 5 / auto / span 1",
+   "img": "servicepro.svg",
+   "imgBox": "16x16",
+   "cell": "35x46"
+  },
+  {
+   "area": "grid-area:2 / 6 / auto / span 1",
+   "img": "moyai.png",
+   "imgBox": "16x16",
+   "cell": "35x46"
+  },
+  {
+   "area": "grid-area:3 / 1 / auto / span 2",
+   "img": "emma-pet.png",
+   "imgBox": "0x0",
+   "cell": "74x51"
+  },
+  {
+   "area": "grid-area:3 / 3 / auto / span 2",
+   "img": "felyn-go.png",
+   "imgBox": "38x29",
+   "cell": "74x51"
+  },
+  {
+   "area": "grid-area:3 / 5 / auto / span 2",
+   "img": "nero.svg",
+   "imgBox": "65x27",
+   "cell": "74x51"
+  }
+ ]
+}

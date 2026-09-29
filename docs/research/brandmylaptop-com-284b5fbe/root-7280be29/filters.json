@@ -1,0 +1,56 @@
+{
+ "Most raised": {
+  "html": "<div class=\"relative\"><button type=\"button\" aria-expanded=\"true\" class=\"flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-[13px] transition-colors border-blue bg-blue/[0.06] text-blue\">Most raised<svg viewBox=\"0 0 12 12\" aria-hidden=\"true\" class=\"h-3 w-3\"><path d=\"M2.5 4.5L6 8l3.5-3.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></button><div class=\"absolute left-0 top-full z-30 mt-2 w-56 rounded-2xl border border-hairline bg-white p-2 shadow-[0_8px_30px_rgba(0,0,0,0.12)]\"><button type=\"button\" aria-pressed=\"true\" class=\"block w-full rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface font-medium text-blue\">Most raised</button><button type=\"button\" aria-pressed=\"false\" class=\"block w-full rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface \">Most viewed</button><button type=\"button\" aria-pressed=\"false\" class=\"block w-full rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface \">Most followers</button><button type=\"button\" aria-pressed=\"false\" class=\"block w-full rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface \">Ending soon</button></div></div>",
+  "opts": [
+   "Most raised",
+   "Most viewed",
+   "Most followers",
+   "Ending soon"
+  ]
+ },
+ "Seen at": {
+  "html": "<div class=\"relative\"><button type=\"button\" aria-expanded=\"true\" class=\"flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-[13px] transition-colors border-blue bg-blue/[0.06] text-blue\">Seen at<svg viewBox=\"0 0 12 12\" aria-hidden=\"true\" class=\"h-3 w-3\"><path d=\"M2.5 4.5L6 8l3.5-3.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></button><div class=\"absolute left-0 top-full z-30 mt-2 w-64 rounded-2xl border border-hairline bg-white p-2 shadow-[0_8px_30px_rgba(0,0,0,0.12)]\"><button type=\"button\" aria-pressed=\"false\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Build in public</span><span class=\"tabular-nums text-ink-2/70\">168</span></button><button type=\"button\" aria-pressed=\"false\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Coworking</span><span class=\"tabular-nums text-ink-2/70\">211</span></button><button type=\"button\" aria-pressed=\"false\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Conferences</span><span class=\"tabular-nums text-ink-2/70\">177</span></button><button type=\"button\" aria-pressed=\"false\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Travel</span><span class=\"tabular-nums text-ink-2/70\">164</span></button><button type=\"button\" aria-pressed=\"false\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Client meetings</span><span class=\"tabular-nums text-ink-2/70\">123</span></button><button type=\"button\" aria-pressed=\"false\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Campus</span><span class=\"tabular-nums text-ink-2/70\">74</span></button></div></div>",
+  "opts": [
+   "Build in public168",
+   "Coworking211",
+   "Conferences177",
+   "Travel164",
+   "Client meetings123",
+   "Campus74"
+  ]
+ },
+ "Ownership": {
+  "html": "<div class=\"relative\"><button type=\"button\" aria-expanded=\"true\" class=\"flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-[13px] transition-colors border-blue bg-blue/[0.06] text-blue\">Ownership<svg viewBox=\"0 0 12 12\" aria-hidden=\"true\" class=\"h-3 w-3\"><path d=\"M2.5 4.5L6 8l3.5-3.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></button><div class=\"absolute left-0 top-full z-30 mt-2 w-56 rounded-2xl border border-hairline bg-white p-2 shadow-[0_8px_30px_rgba(0,0,0,0.12)]\"><button type=\"button\" aria-pressed=\"true\" class=\"block w-full rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface font-medium text-blue\">All laptops</button><button type=\"button\" aria-pressed=\"false\" class=\"block w-full rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface \">Being funded by the sales</button><button type=\"button\" aria-pressed=\"false\" class=\"block w-full rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface \">Already owned</button></div></div>",
+  "opts": [
+   "All laptops",
+   "Being funded by the sales",
+   "Already owned"
+  ]
+ },
+ "How you buy": {
+  "html": "<div class=\"relative\"><button type=\"button\" aria-expanded=\"true\" class=\"flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-[13px] transition-colors border-blue bg-blue/[0.06] text-blue\">How you buy<svg viewBox=\"0 0 12 12\" aria-hidden=\"true\" class=\"h-3 w-3\"><path d=\"M2.5 4.5L6 8l3.5-3.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></button><div class=\"absolute left-0 top-full z-30 mt-2 w-56 rounded-2xl border border-hairline bg-white p-2 shadow-[0_8px_30px_rgba(0,0,0,0.12)]\"><button type=\"button\" aria-pressed=\"true\" class=\"block w-full rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface font-medium text-blue\">Any</button><button type=\"button\" aria-pressed=\"false\" class=\"block w-full rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface \">Fixed prices — buy directly</button><button type=\"button\" aria-pressed=\"false\" class=\"block w-full rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface \">Auction — highest bid wins</button></div></div>",
+  "opts": [
+   "Any",
+   "Fixed prices — buy directly",
+   "Auction — highest bid wins"
+  ]
+ },
+ "Who they are": {
+  "html": "<div class=\"relative\"><button type=\"button\" aria-expanded=\"true\" class=\"flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-[13px] transition-colors border-blue bg-blue/[0.06] text-blue\">Who they are<svg viewBox=\"0 0 12 12\" aria-hidden=\"true\" class=\"h-3 w-3\"><path d=\"M2.5 4.5L6 8l3.5-3.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></button><div class=\"absolute left-0 top-full z-30 mt-2 w-64 rounded-2xl border border-hairline bg-white p-2 shadow-[0_8px_30px_rgba(0,0,0,0.12)]\"><button type=\"button\" class=\"block w-full rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface font-medium text-blue\">Anyone</button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Developer</span><span class=\"tabular-nums text-ink-2/70\">38</span></button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Indie hacker / founder</span><span class=\"tabular-nums text-ink-2/70\">43</span></button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Designer</span><span class=\"tabular-nums text-ink-2/70\">12</span></button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Content creator</span><span class=\"tabular-nums text-ink-2/70\">39</span></button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Marketer / growth</span><span class=\"tabular-nums text-ink-2/70\">30</span></button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Sales / SDR</span><span class=\"tabular-nums text-ink-2/70\">3</span></button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Freelancer / consultant</span><span class=\"tabular-nums text-ink-2/70\">42</span></button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Student</span><span class=\"tabular-nums text-ink-2/70\">27</span></button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Teacher / researcher</span><span class=\"tabular-nums text-ink-2/70\">3</span></button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Finance</span><span class=\"tabular-nums text-ink-2/70\">6</span></button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Gamer</span><span class=\"tabular-nums text-ink-2/70\">6</span></button><button type=\"button\" class=\"flex w-full items-center justify-between gap-3 rounded-xl px-3 py-2 text-left text-[13px] transition-colors hover:bg-surface\"><span class=\"\">Something else</span><span class=\"tabular-nums text-ink-2/70\">16</span></button></div></div>",
+  "opts": [
+   "Anyone",
+   "Developer38",
+   "Indie hacker / founder43",
+   "Designer12",
+   "Content creator39",
+   "Marketer / growth30",
+   "Sales / SDR3",
+   "Freelancer / consultant42",
+   "Student27",
+   "Teacher / researcher3",
+   "Finance6",
+   "Gamer6",
+   "Something else16"
+  ]
+ }
+}

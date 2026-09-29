@@ -1,0 +1,257 @@
+{
+ "rows": [
+  {
+   "d": 0,
+   "tag": "body",
+   "cls": "has-ads has-ad-rails",
+   "y": 0,
+   "h": 5504,
+   "w": 1440,
+   "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid SPONSORS Azal.ai Intelligence ",
+   "kidCount": 18
+  },
+  {
+   "d": 1,
+   "tag": "nav",
+   "cls": "sticky top-0 z-50 border-b border-hairline/70 bg-white/70 backdrop-blur-xl",
+   "y": 0,
+   "h": 53,
+   "w": 1004,
+   "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mx-auto flex h-13 max-w-6xl items-center justify-between px-6 py-3",
+   "y": 0,
+   "h": 52,
+   "w": 1004,
+   "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid",
+   "kidCount": 3
+  },
+  {
+   "d": 1,
+   "tag": "aside",
+   "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+   "y": 80,
+   "h": 804,
+   "w": 190,
+   "text": "SPONSORS Azal.ai Intelligence Software RankControl AI SEO Platform TinyLaunch Grow your DR on autopilot! Your startup he",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mb-2 shrink-0 text-[11px] uppercase tracking-wide text-ink-2/70",
+   "y": 80,
+   "h": 17,
+   "w": 190,
+   "text": "SPONSORS",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "ul",
+   "cls": "flex min-h-0 flex-1 flex-col gap-3",
+   "y": 105,
+   "h": 780,
+   "w": 190,
+   "text": "Azal.ai Intelligence Software RankControl AI SEO Platform TinyLaunch Grow your DR on autopilot! Your startup here Your s",
+   "kidCount": 6
+  },
+  {
+   "d": 1,
+   "tag": "aside",
+   "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+   "y": 80,
+   "h": 804,
+   "w": 190,
+   "text": "SPONSORS Your startup here Your startup here Your startup here Your startup here Your startup here Your startup here",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mb-2 shrink-0 text-[11px] uppercase tracking-wide text-ink-2/70",
+   "y": 80,
+   "h": 17,
+   "w": 190,
+   "text": "SPONSORS",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "ul",
+   "cls": "flex min-h-0 flex-1 flex-col gap-3",
+   "y": 105,
+   "h": 780,
+   "w": 190,
+   "text": "Your startup here Your startup here Your startup here Your startup here Your startup here Your startup here",
+   "kidCount": 6
+  },
+  {
+   "d": 1,
+   "tag": "main",
+   "cls": "mx-auto max-w-5xl px-6 pb-24 pt-14",
+   "y": 53,
+   "h": 4886,
+   "w": 1004,
+   "text": "BrandMyLaptop / Stats Everything this market has done. Read from the database, every fifteen minutes. Paid to creators $",
+   "kidCount": 13
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "text-[13px] text-ink-2",
+   "y": 109,
+   "h": 20,
+   "w": 956,
+   "text": "BrandMyLaptop / Stats",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "h1",
+   "cls": "mt-4 text-[clamp(2rem,5vw,3.2rem)] font-semibold leading-[1.05] tracking-[-0.03em]",
+   "y": 145,
+   "h": 54,
+   "w": 956,
+   "text": "Everything this market has done.",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mt-5 max-w-[58ch] text-[17px] leading-relaxed text-ink-2",
+   "y": 218,
+   "h": 28,
+   "w": 622,
+   "text": "Read from the database, every fifteen minutes.",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "dl",
+   "cls": "mt-10 grid grid-cols-2 gap-4 lg:grid-cols-4",
+   "y": 286,
+   "h": 151,
+   "w": 956,
+   "text": "Paid to creators $13,794 44 sticker spots sold Combined following 11.9M 1.3M of it verified by X and YouTube Laptops tak",
+   "kidCount": 4
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-6 rounded-3xl bg-surface p-6 sm:p-10",
+   "y": 460,
+   "h": 419,
+   "w": 956,
+   "text": "Paid to creators Running total across 44 sticker spots. $3,806 Aug 26 $13,794 Sept 26",
+   "kidCount": 3
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-6",
+   "y": 903,
+   "h": 177,
+   "w": 956,
+   "text": "The board Laptops put up 301 Taking brands today 166 Spots free right now 1,656 Spots taken 30",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-6 rounded-3xl bg-surface p-6 sm:p-10",
+   "y": 1104,
+   "h": 715,
+   "w": 956,
+   "text": "Does a bigger following bring more visitors? Typical views on a laptop’s page, by the seller’s X following. Under 100 fo",
+   "kidCount": 3
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-6 rounded-3xl bg-surface p-6 sm:p-10",
+   "y": 1842,
+   "h": 1493,
+   "w": 956,
+   "text": "The 40 brands that have bought What each has spent to be on somebody’s laptop. Granola 1 spot $983 Gi Studio NYC 1 spot ",
+   "kidCount": 4
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-6 rounded-3xl bg-surface p-6 sm:p-10",
+   "y": 3359,
+   "h": 650,
+   "w": 956,
+   "text": "What a spot costs, by where it sits The typical price, and what it has ranged between. Top $742 8 sold, from $170 to $98",
+   "kidCount": 4
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-6 grid grid-cols-1 gap-4 md:grid-cols-2",
+   "y": 4034,
+   "h": 183,
+   "w": 956,
+   "text": "Say what you would pay for Name the audience and your budget. Creators who fit apply, and you pick. No account, nothing ",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-12",
+   "y": 4265,
+   "h": 215,
+   "w": 956,
+   "text": "Browse by who carries it Developers Indie hackers and founders Designers Content creators Marketers Freelancers Students",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-6 rounded-3xl border border-hairline bg-white p-6 sm:p-10",
+   "y": 4503,
+   "h": 288,
+   "w": 956,
+   "text": "These numbers move. Get the new ones on Monday: what sold that week, what it went for, and which laptops went up. Send m",
+   "kidCount": 3
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mt-8 text-[13px] text-ink-2",
+   "y": 4823,
+   "h": 20,
+   "w": 956,
+   "text": "These figures are free to reuse under CC BY 4.0. Credit BrandMyLaptop and link to this page.",
+   "kidCount": 1
+  },
+  {
+   "d": 1,
+   "tag": "footer",
+   "cls": "border-t border-hairline",
+   "y": 4939,
+   "h": 565,
+   "w": 1004,
+   "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mx-auto max-w-5xl px-6 py-12",
+   "y": 4940,
+   "h": 564,
+   "w": 1004,
+   "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+   "kidCount": 3
+  }
+ ],
+ "mainTag": "BODY",
+ "mainCls": "has-ads has-ad-rails",
+ "scrollH": 5504
+}

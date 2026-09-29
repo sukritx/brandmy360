@@ -1,0 +1,127 @@
+{
+ "rows": [
+  {
+   "d": 0,
+   "tag": "body",
+   "cls": "has-ads",
+   "y": 0,
+   "h": 1699,
+   "w": 1440,
+   "text": "BrandMyLaptop Put your lid up. Display currency € EUR $ USD £ GBP Publishing costs a one-off $19. You need a Stripe acco",
+   "kidCount": 11
+  },
+  {
+   "d": 1,
+   "tag": "header",
+   "cls": "border-b border-hairline/40",
+   "y": 0,
+   "h": 61,
+   "w": 1004,
+   "text": "BrandMyLaptop",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mx-auto flex max-w-5xl items-center justify-center px-6 py-4",
+   "y": 0,
+   "h": 60,
+   "w": 1004,
+   "text": "BrandMyLaptop",
+   "kidCount": 1
+  },
+  {
+   "d": 1,
+   "tag": "div",
+   "cls": "mx-auto max-w-5xl px-5 py-8 sm:px-6 md:py-16",
+   "y": 61,
+   "h": 1073,
+   "w": 1004,
+   "text": "Put your lid up. Display currency € EUR $ USD £ GBP Publishing costs a one-off $19. You need a Stripe account to be paid",
+   "kidCount": 5
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "flex items-start justify-between gap-4",
+   "y": 125,
+   "h": 48,
+   "w": 956,
+   "text": "Put your lid up. Display currency € EUR $ USD £ GBP",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mt-3 flex flex-wrap items-baseline justify-between gap-x-6 gap-y-1 text-[13px] text-ink-2",
+   "y": 185,
+   "h": 43,
+   "w": 956,
+   "text": "Publishing costs a one-off $19. You need a Stripe account to be paid Once it’s up, post it and tag @VynseDev so I can su",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "ol",
+   "cls": "mt-10 hidden flex-wrap items-center gap-1 text-[12px] md:flex",
+   "y": 268,
+   "h": 26,
+   "w": 956,
+   "text": "Machine Ownership Showcase Layout Prices Listing Sticker You Publish",
+   "kidCount": 9
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mt-6 grid grid-cols-1 gap-8 md:mt-10 md:gap-10 md:grid-cols-[1fr_minmax(0,1.1fr)] md:items-start",
+   "y": 334,
+   "h": 736,
+   "w": 956,
+   "text": "What are you selling space on? A Mac The drawn lid wears the Apple mark, because yours does. A PC A bare lid. No maker's",
+   "kidCount": 2
+  },
+  {
+   "d": 1,
+   "tag": "footer",
+   "cls": "border-t border-hairline",
+   "y": 1134,
+   "h": 565,
+   "w": 1004,
+   "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mx-auto max-w-5xl px-6 py-12",
+   "y": 1135,
+   "h": 564,
+   "w": 1004,
+   "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+   "kidCount": 3
+  },
+  {
+   "d": 1,
+   "tag": "div",
+   "cls": "fixed inset-0 z-[60] flex items-end justify-center bg-ink/40 px-4 py-6 sm:items-center",
+   "y": 0,
+   "h": 900,
+   "w": 1440,
+   "text": "You will need a Stripe account. Buyers pay you directly, so the money never passes through us. It is free, three clicks ",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "w-full max-w-md rounded-3xl bg-white p-6 shadow-[0_20px_60px_rgba(0,0,0,0.25)]",
+   "y": 343,
+   "h": 214,
+   "w": 448,
+   "text": "You will need a Stripe account. Buyers pay you directly, so the money never passes through us. It is free, three clicks ",
+   "kidCount": 3
+  }
+ ],
+ "mainTag": "BODY",
+ "mainCls": "has-ads",
+ "scrollH": 1699
+}

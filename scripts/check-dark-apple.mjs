@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const c = fs.readFileSync('docs/research/brandmylaptop-com-284b5fbe/root-7280be29/sections-html/01-y633.html', 'utf8');
+const idx = c.indexOf('rgb(59, 59, 61)');
+const seg = c.slice(idx, idx + 6000);
+const apple = seg.match(/<div aria-hidden="true" class="w-\[15\.6%\]"[\s\S]{0,400}?<\/svg>/);
+console.log('APPLE IN DARK SEGMENT:\n', apple ? apple[0] : 'not found in window');
+const cls = [...new Set([...seg.matchAll(/text-\[#[0-9a-fA-F]{3,8}\]/g)].map((m) => m[0]))];
+console.log('color classes in dark segment:', cls.slice(0, 12));
+const labelCls = [...new Set([...seg.matchAll(/<span class="max-w-full text-center[^"]*"[^>]*>/g)].map((m) => m[0]))];
+console.log('label classes:', labelCls.slice(0, 4));

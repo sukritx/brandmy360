@@ -1,0 +1,56 @@
+[
+ {
+  "i": 1,
+  "y": 145,
+  "h": 111,
+  "cls": "mt-4 max-w-[18ch] text-[clamp(2rem,5vw,3.4rem)] font-medium leading-[1.02] tracking-[-0.04em]"
+ },
+ {
+  "i": 3,
+  "y": 343,
+  "h": 183,
+  "cls": "mt-10 grid grid-cols-1 gap-4 md:grid-cols-2"
+ },
+ {
+  "i": 4,
+  "y": 566,
+  "h": 105,
+  "cls": "mt-10 grid grid-cols-1 gap-4 sm:grid-cols-3"
+ },
+ {
+  "i": 6,
+  "y": 756,
+  "h": 390,
+  "cls": "mt-12"
+ },
+ {
+  "i": 7,
+  "y": 1193,
+  "h": 171,
+  "cls": "mt-12 rounded-2xl border border-hairline bg-white p-6 sm:p-8"
+ },
+ {
+  "i": 8,
+  "y": 1413,
+  "h": 121,
+  "cls": "mt-12"
+ },
+ {
+  "i": 9,
+  "y": 1581,
+  "h": 313,
+  "cls": "mt-12 overflow-hidden rounded-2xl border border-hairline bg-white"
+ },
+ {
+  "i": 10,
+  "y": 1958,
+  "h": 272,
+  "cls": "mt-16 rounded-3xl border border-hairline bg-white p-6 sm:p-8"
+ },
+ {
+  "i": 11,
+  "y": 2294,
+  "h": 3172,
+  "cls": "mt-16 border-t border-hairline pt-10"
+ }
+]

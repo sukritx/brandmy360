@@ -1,0 +1,207 @@
+{
+ "rows": [
+  {
+   "d": 0,
+   "tag": "body",
+   "cls": "has-ads has-ad-rails",
+   "y": 0,
+   "h": 2014,
+   "w": 1440,
+   "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid SPONSORS Azal.ai Intelligence ",
+   "kidCount": 12
+  },
+  {
+   "d": 1,
+   "tag": "nav",
+   "cls": "sticky top-0 z-50 border-b border-hairline/70 bg-white/70 backdrop-blur-xl",
+   "y": 0,
+   "h": 53,
+   "w": 1004,
+   "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mx-auto flex h-13 max-w-6xl items-center justify-between px-6 py-3",
+   "y": 0,
+   "h": 52,
+   "w": 1004,
+   "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid",
+   "kidCount": 3
+  },
+  {
+   "d": 1,
+   "tag": "aside",
+   "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+   "y": 80,
+   "h": 804,
+   "w": 190,
+   "text": "SPONSORS Azal.ai Intelligence Software RankControl AI SEO Platform TinyLaunch Grow your DR on autopilot! Your startup he",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mb-2 shrink-0 text-[11px] uppercase tracking-wide text-ink-2/70",
+   "y": 80,
+   "h": 17,
+   "w": 190,
+   "text": "SPONSORS",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "ul",
+   "cls": "flex min-h-0 flex-1 flex-col gap-3",
+   "y": 105,
+   "h": 780,
+   "w": 190,
+   "text": "Azal.ai Intelligence Software RankControl AI SEO Platform TinyLaunch Grow your DR on autopilot! Your startup here Your s",
+   "kidCount": 6
+  },
+  {
+   "d": 1,
+   "tag": "aside",
+   "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+   "y": 80,
+   "h": 804,
+   "w": 190,
+   "text": "SPONSORS Your startup here Your startup here Your startup here Your startup here Your startup here Your startup here",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mb-2 shrink-0 text-[11px] uppercase tracking-wide text-ink-2/70",
+   "y": 80,
+   "h": 17,
+   "w": 190,
+   "text": "SPONSORS",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "ul",
+   "cls": "flex min-h-0 flex-1 flex-col gap-3",
+   "y": 105,
+   "h": 780,
+   "w": 190,
+   "text": "Your startup here Your startup here Your startup here Your startup here Your startup here Your startup here",
+   "kidCount": 6
+  },
+  {
+   "d": 1,
+   "tag": "main",
+   "cls": "mx-auto max-w-3xl px-6 pb-24 pt-14",
+   "y": 53,
+   "h": 1396,
+   "w": 768,
+   "text": "BrandMyLaptop / Briefs Let creators advertise for you. Name the audience you’re looking for and your budget. Creators wh",
+   "kidCount": 8
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "text-[13px] text-ink-2",
+   "y": 109,
+   "h": 20,
+   "w": 720,
+   "text": "BrandMyLaptop / Briefs",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "h1",
+   "cls": "mt-4 text-[clamp(1.8rem,4.5vw,3rem)] font-medium leading-[1.05] tracking-[-0.035em]",
+   "y": 145,
+   "h": 50,
+   "w": 720,
+   "text": "Let creators advertise for you.",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mt-4 max-w-[62ch] text-[16px] leading-relaxed text-ink-2",
+   "y": 211,
+   "h": 52,
+   "w": 626,
+   "text": "Name the audience you’re looking for and your budget. Creators who fit can apply directly — you review them. Free, no ac",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mt-2 max-w-[62ch] text-[14px] leading-relaxed text-ink-2",
+   "y": 271,
+   "h": 46,
+   "w": 548,
+   "text": "Rather not post it publicly, or want us to assemble it for you? Send it privately and the shortlist comes back by mail.",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "h2",
+   "cls": "mt-12 text-[22px] font-semibold tracking-[-0.02em]",
+   "y": 364,
+   "h": 33,
+   "w": 720,
+   "text": "1 open brief",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "ul",
+   "cls": "mt-4 space-y-3",
+   "y": 413,
+   "h": 80,
+   "w": 720,
+   "text": "Pushup RPG up to $29 a spot · 6 applied Gamer",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "h2",
+   "cls": "mt-14 text-[22px] font-semibold tracking-[-0.02em]",
+   "y": 549,
+   "h": 33,
+   "w": 720,
+   "text": "Post your own",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mt-4",
+   "y": 598,
+   "h": 755,
+   "w": 720,
+   "text": "Brand Website Email Who should carry your logo? Up to four. Developer Indie hacker / founder Designer Content creator Ma",
+   "kidCount": 1
+  },
+  {
+   "d": 1,
+   "tag": "footer",
+   "cls": "border-t border-hairline",
+   "y": 1449,
+   "h": 565,
+   "w": 1004,
+   "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mx-auto max-w-5xl px-6 py-12",
+   "y": 1450,
+   "h": 564,
+   "w": 1004,
+   "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+   "kidCount": 3
+  }
+ ],
+ "mainTag": "BODY",
+ "mainCls": "has-ads has-ad-rails",
+ "scrollH": 2014
+}

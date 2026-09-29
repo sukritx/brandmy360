@@ -1,0 +1,12 @@
+{
+ "count": 7,
+ "sample": [
+  "<button type=\"button\" aria-expanded=\"true\" class=\"flex w-full items-center justify-between gap-4 py-5 text-left\"><span class=\"text-[16px] font-medium\">Is this real?</span><span aria-hidden=\"true\" clas",
+  "<button type=\"button\" aria-expanded=\"false\" class=\"flex w-full items-center justify-between gap-4 py-5 text-left\"><span class=\"text-[16px] font-medium\">What does buying a spot actually get me?</span><",
+  "<button type=\"button\" aria-expanded=\"false\" class=\"flex w-full items-center justify-between gap-4 py-5 text-left\"><span class=\"text-[16px] font-medium\">How does paying work?</span><span aria-hidden=\"t",
+  "<button type=\"button\" aria-expanded=\"false\" class=\"flex w-full items-center justify-between gap-4 py-5 text-left\"><span class=\"text-[16px] font-medium\">Who is actually taking my money?</span><span ari",
+  "<button type=\"button\" aria-expanded=\"false\" class=\"flex w-full items-center justify-between gap-4 py-5 text-left\"><span class=\"text-[16px] font-medium\">What if my logo is refused?</span><span aria-hid",
+  "<button type=\"button\" aria-expanded=\"false\" class=\"flex w-full items-center justify-between gap-4 py-5 text-left\"><span class=\"text-[16px] font-medium\">What if the sticker never appears?</span><span a",
+  "<button type=\"button\" aria-expanded=\"false\" class=\"flex w-full items-center justify-between gap-4 py-5 text-left\"><span class=\"text-[16px] font-medium\">How do I put my own lid up?</span><span aria-hid"
+ ]
+}

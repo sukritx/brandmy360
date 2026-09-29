@@ -1,0 +1,37 @@
+[
+ {
+  "rel": "manifest",
+  "href": "https://brandmylaptop.com/site.webmanifest",
+  "sizes": ""
+ },
+ {
+  "rel": "shortcut icon",
+  "href": "https://brandmylaptop.com/favicon.ico",
+  "sizes": ""
+ },
+ {
+  "rel": "icon",
+  "href": "https://brandmylaptop.com/favicon-32x32.png",
+  "sizes": "32x32"
+ },
+ {
+  "rel": "icon",
+  "href": "https://brandmylaptop.com/favicon-16x16.png",
+  "sizes": "16x16"
+ },
+ {
+  "rel": "icon",
+  "href": "https://brandmylaptop.com/icon-192.png",
+  "sizes": "192x192"
+ },
+ {
+  "rel": "icon",
+  "href": "https://brandmylaptop.com/favicon.ico",
+  "sizes": ""
+ },
+ {
+  "rel": "apple-touch-icon",
+  "href": "https://brandmylaptop.com/apple-touch-icon.png",
+  "sizes": "180x180"
+ }
+]

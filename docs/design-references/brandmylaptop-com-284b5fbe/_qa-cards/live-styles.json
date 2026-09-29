@@ -1,0 +1,66 @@
+{
+ "containerW": "244.656px",
+ "lidwInline": "container-type: inline-size; --lidw: 244.65625px;",
+ "slots": [
+  {
+   "area": "grid-area: 1 / 1 / auto / span 2;",
+   "imgSrc": "macpaw.png",
+   "imgBox": "42x29",
+   "cellBox": "74x51"
+  },
+  {
+   "area": "grid-area: 1 / 3 / auto / span 2;",
+   "imgSrc": "see-io.png",
+   "imgBox": "65x19",
+   "cellBox": "74x51"
+  },
+  {
+   "area": "grid-area: 1 / 5 / auto / span 2;",
+   "imgSrc": "privatealps.png",
+   "imgBox": "17x17",
+   "cellBox": "74x51"
+  },
+  {
+   "area": "grid-area: 2 / 1 / auto / span 1;",
+   "imgSrc": "draftline-fantasy.png",
+   "imgBox": "16x16",
+   "cellBox": "35x46"
+  },
+  {
+   "area": "grid-area: 2 / 2 / auto / span 1;",
+   "imgSrc": "surf-office.png",
+   "imgBox": "31x18",
+   "cellBox": "35x46"
+  },
+  {
+   "area": "grid-area: 2 / 5 / auto / span 1;",
+   "imgSrc": "servicepro.svg",
+   "imgBox": "16x16",
+   "cellBox": "35x46"
+  },
+  {
+   "area": "grid-area: 2 / 6 / auto / span 1;",
+   "imgSrc": "moyai.png",
+   "imgBox": "16x16",
+   "cellBox": "35x46"
+  },
+  {
+   "area": "grid-area: 3 / 1 / auto / span 2;",
+   "imgSrc": "emma-pet.png",
+   "imgBox": "65x27",
+   "cellBox": "74x51"
+  },
+  {
+   "area": "grid-area: 3 / 3 / auto / span 2;",
+   "imgSrc": "felyn-go.png",
+   "imgBox": "38x29",
+   "cellBox": "74x51"
+  },
+  {
+   "area": "grid-area: 3 / 5 / auto / span 2;",
+   "imgSrc": "nero.svg",
+   "imgBox": "65x27",
+   "cellBox": "74x51"
+  }
+ ]
+}

@@ -1,0 +1,501 @@
+[
+ {
+  "name": "root",
+  "clone": [
+   {
+    "i": 0,
+    "y": 53,
+    "h": 580,
+    "text": "$13,794 of ad space sold · 42,430 visits The marketplace for"
+   },
+   {
+    "i": 1,
+    "y": 633,
+    "h": 526,
+    "text": "Featured now 👀 Your Brand With Me: 450K+ Followers, Keynote"
+   },
+   {
+    "i": 2,
+    "y": 1183,
+    "h": 3558,
+    "text": "166 laptops looking for brands Most raised Seen at Ownership"
+   },
+   {
+    "i": 3,
+    "y": 4741,
+    "h": 509,
+    "text": "Just sold Every spot bought on these lids Pushup RPG took a "
+   },
+   {
+    "i": 4,
+    "y": 5250,
+    "h": 572,
+    "text": "What sold this week, every week One email a week: the spots "
+   },
+   {
+    "i": 5,
+    "y": 5846,
+    "h": 519,
+    "text": "Everyone stares at laptop lids. Yours may as well get paid."
+   },
+   {
+    "i": 6,
+    "y": 6365,
+    "h": 1084,
+    "text": "Laptops fully branded. $18,886 of ad space bought by brands,"
+   },
+   {
+    "i": 7,
+    "y": 7449,
+    "h": 704,
+    "text": "How it works Most lids sell at a fixed price. Some run an au"
+   },
+   {
+    "i": 8,
+    "y": 8177,
+    "h": 853,
+    "text": "Questions & Answers Is this real? + It started as brandmymac"
+   }
+  ],
+  "orig": [
+   {
+    "d": 0,
+    "tag": "div",
+    "cls": "min-h-screen",
+    "y": 53,
+    "h": 9551,
+    "w": 1004,
+    "text": "$13,794 of ad space sold · 42,420 visits The marketplace for ads on laptops. Creators sell the sticker spots on their li",
+    "kidCount": 2
+   },
+   {
+    "d": 1,
+    "tag": "main",
+    "cls": "",
+    "y": 53,
+    "h": 8986,
+    "w": 1004,
+    "text": "$13,794 of ad space sold · 42,420 visits The marketplace for ads on laptops. Creators sell the sticker spots on their li",
+    "kidCount": 9
+   },
+   {
+    "d": 1,
+    "tag": "footer",
+    "cls": "border-t border-hairline",
+    "y": 9039,
+    "h": 565,
+    "w": 1004,
+    "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+    "kidCount": 1
+   }
+  ]
+ },
+ {
+  "name": "brands",
+  "clone": [
+   {
+    "i": 1,
+    "y": 145,
+    "h": 111,
+    "text": "Get your logo on creators’ laptops."
+   },
+   {
+    "i": 3,
+    "y": 343,
+    "h": 183,
+    "text": "Let creators come to you Name the audience you are looking f"
+   },
+   {
+    "i": 4,
+    "y": 566,
+    "h": 105,
+    "text": "Brands on laptops 40 Paid to creators $13,794 A spot from $2"
+   },
+   {
+    "i": 5,
+    "y": 719,
+    "h": 390,
+    "text": "Already on a lid"
+   },
+   {
+    "i": 6,
+    "y": 1156,
+    "h": 171,
+    "text": "How it compares Months A newsletter slot lasts one send. Eve"
+   },
+   {
+    "i": 7,
+    "y": 1376,
+    "h": 121,
+    "text": "Browse by who carries it Developers Indie hackers and founde"
+   },
+   {
+    "i": 8,
+    "y": 1544,
+    "h": 313,
+    "text": "What a spot is One price, paid once The creator sets the ter"
+   },
+   {
+    "i": 9,
+    "y": 1921,
+    "h": 272,
+    "text": "What sold this week, every week One email on Monday: the spo"
+   },
+   {
+    "i": 10,
+    "y": 2257,
+    "h": 3172,
+    "text": "Brands advertising here 40 companies have put their logo on "
+   }
+  ],
+  "orig": [
+   {
+    "d": 0,
+    "tag": "body",
+    "cls": "has-ads has-ad-rails",
+    "y": 0,
+    "h": 6126,
+    "w": 1440,
+    "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid SPONSORS Azal.ai Intelligence ",
+    "kidCount": 14
+   },
+   {
+    "d": 1,
+    "tag": "nav",
+    "cls": "sticky top-0 z-50 border-b border-hairline/70 bg-white/70 backdrop-blur-xl",
+    "y": 0,
+    "h": 53,
+    "w": 1004,
+    "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid",
+    "kidCount": 1
+   },
+   {
+    "d": 1,
+    "tag": "aside",
+    "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+    "y": 80,
+    "h": 804,
+    "w": 190,
+    "text": "SPONSORS Azal.ai Intelligence Software RankControl AI SEO Platform TinyLaunch Grow your DR on autopilot! Your startup he",
+    "kidCount": 2
+   },
+   {
+    "d": 1,
+    "tag": "aside",
+    "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+    "y": 80,
+    "h": 804,
+    "w": 190,
+    "text": "SPONSORS Your startup here Your startup here Your startup here Your startup here Your startup here Your startup here",
+    "kidCount": 2
+   },
+   {
+    "d": 1,
+    "tag": "main",
+    "cls": "mx-auto max-w-5xl px-6 pb-24 pt-14",
+    "y": 53,
+    "h": 5508,
+    "w": 1004,
+    "text": "BrandMyLaptop / Brands Get your logo on creators’ laptops. They advertise for you, and you go everywhere they go. Let cr",
+    "kidCount": 12
+   },
+   {
+    "d": 1,
+    "tag": "footer",
+    "cls": "border-t border-hairline",
+    "y": 5561,
+    "h": 565,
+    "w": 1004,
+    "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+    "kidCount": 1
+   }
+  ]
+ },
+ {
+  "name": "briefs",
+  "clone": [
+   {
+    "i": 1,
+    "y": 145,
+    "h": 50,
+    "text": "Let creators advertise for you."
+   },
+   {
+    "i": 2,
+    "y": 211,
+    "h": 52,
+    "text": "Name the audience you’re looking for and your budget. Creato"
+   },
+   {
+    "i": 3,
+    "y": 271,
+    "h": 46,
+    "text": "Rather not post it publicly, or want us to assemble it for y"
+   },
+   {
+    "i": 5,
+    "y": 413,
+    "h": 80,
+    "text": "Pushup RPG up to $29 a spot · 6 applied Gamer"
+   },
+   {
+    "i": 7,
+    "y": 598,
+    "h": 755,
+    "text": "Brand Website Email Who should carry your logo? Up to four. "
+   }
+  ],
+  "orig": [
+   {
+    "d": 0,
+    "tag": "body",
+    "cls": "has-ads has-ad-rails",
+    "y": 0,
+    "h": 2014,
+    "w": 1440,
+    "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid SPONSORS Azal.ai Intelligence ",
+    "kidCount": 12
+   },
+   {
+    "d": 1,
+    "tag": "nav",
+    "cls": "sticky top-0 z-50 border-b border-hairline/70 bg-white/70 backdrop-blur-xl",
+    "y": 0,
+    "h": 53,
+    "w": 1004,
+    "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid",
+    "kidCount": 1
+   },
+   {
+    "d": 1,
+    "tag": "aside",
+    "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+    "y": 80,
+    "h": 804,
+    "w": 190,
+    "text": "SPONSORS Azal.ai Intelligence Software RankControl AI SEO Platform TinyLaunch Grow your DR on autopilot! Your startup he",
+    "kidCount": 2
+   },
+   {
+    "d": 1,
+    "tag": "aside",
+    "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+    "y": 80,
+    "h": 804,
+    "w": 190,
+    "text": "SPONSORS Your startup here Your startup here Your startup here Your startup here Your startup here Your startup here",
+    "kidCount": 2
+   },
+   {
+    "d": 1,
+    "tag": "main",
+    "cls": "mx-auto max-w-3xl px-6 pb-24 pt-14",
+    "y": 53,
+    "h": 1396,
+    "w": 768,
+    "text": "BrandMyLaptop / Briefs Let creators advertise for you. Name the audience you’re looking for and your budget. Creators wh",
+    "kidCount": 8
+   },
+   {
+    "d": 1,
+    "tag": "footer",
+    "cls": "border-t border-hairline",
+    "y": 1449,
+    "h": 565,
+    "w": 1004,
+    "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+    "kidCount": 1
+   }
+  ]
+ },
+ {
+  "name": "stats",
+  "clone": [
+   {
+    "i": 1,
+    "y": 145,
+    "h": 54,
+    "text": "Everything this market has done."
+   },
+   {
+    "i": 3,
+    "y": 286,
+    "h": 151,
+    "text": "Paid to creators $13,794 44 sticker spots sold Combined foll"
+   },
+   {
+    "i": 4,
+    "y": 460,
+    "h": 419,
+    "text": "Paid to creators Running total across 44 sticker spots. $3,8"
+   },
+   {
+    "i": 5,
+    "y": 903,
+    "h": 177,
+    "text": "The board Laptops put up 301 Taking brands today 166 Spots f"
+   },
+   {
+    "i": 6,
+    "y": 1104,
+    "h": 715,
+    "text": "Does a bigger following bring more visitors? Typical views o"
+   },
+   {
+    "i": 7,
+    "y": 1842,
+    "h": 1918,
+    "text": "The 40 brands that have bought What each has spent to be on "
+   },
+   {
+    "i": 8,
+    "y": 3784,
+    "h": 650,
+    "text": "What a spot costs, by where it sits The typical price, and w"
+   },
+   {
+    "i": 9,
+    "y": 4459,
+    "h": 183,
+    "text": "Say what you would pay for Name the audience and your budget"
+   },
+   {
+    "i": 10,
+    "y": 4690,
+    "h": 215,
+    "text": "Browse by who carries it Developers Indie hackers and founde"
+   },
+   {
+    "i": 11,
+    "y": 4928,
+    "h": 288,
+    "text": "These numbers move. Get the new ones on Monday: what sold th"
+   }
+  ],
+  "orig": [
+   {
+    "d": 0,
+    "tag": "body",
+    "cls": "has-ads has-ad-rails",
+    "y": 0,
+    "h": 5504,
+    "w": 1440,
+    "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid SPONSORS Azal.ai Intelligence ",
+    "kidCount": 18
+   },
+   {
+    "d": 1,
+    "tag": "nav",
+    "cls": "sticky top-0 z-50 border-b border-hairline/70 bg-white/70 backdrop-blur-xl",
+    "y": 0,
+    "h": 53,
+    "w": 1004,
+    "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid",
+    "kidCount": 1
+   },
+   {
+    "d": 1,
+    "tag": "aside",
+    "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+    "y": 80,
+    "h": 804,
+    "w": 190,
+    "text": "SPONSORS Azal.ai Intelligence Software RankControl AI SEO Platform TinyLaunch Grow your DR on autopilot! Your startup he",
+    "kidCount": 2
+   },
+   {
+    "d": 1,
+    "tag": "aside",
+    "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+    "y": 80,
+    "h": 804,
+    "w": 190,
+    "text": "SPONSORS Your startup here Your startup here Your startup here Your startup here Your startup here Your startup here",
+    "kidCount": 2
+   },
+   {
+    "d": 1,
+    "tag": "main",
+    "cls": "mx-auto max-w-5xl px-6 pb-24 pt-14",
+    "y": 53,
+    "h": 4886,
+    "w": 1004,
+    "text": "BrandMyLaptop / Stats Everything this market has done. Read from the database, every fifteen minutes. Paid to creators $",
+    "kidCount": 13
+   },
+   {
+    "d": 1,
+    "tag": "footer",
+    "cls": "border-t border-hairline",
+    "y": 4939,
+    "h": 565,
+    "w": 1004,
+    "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+    "kidCount": 1
+   }
+  ]
+ },
+ {
+  "name": "sell",
+  "clone": [
+   {
+    "i": 0,
+    "y": 101,
+    "h": 945,
+    "text": "Put your lid up. Display currency € EUR $ USD £ GBP Publishi"
+   }
+  ],
+  "orig": [
+   {
+    "d": 0,
+    "tag": "body",
+    "cls": "has-ads",
+    "y": 0,
+    "h": 1699,
+    "w": 1440,
+    "text": "BrandMyLaptop Put your lid up. Display currency € EUR $ USD £ GBP Publishing costs a one-off $19. You need a Stripe acco",
+    "kidCount": 11
+   },
+   {
+    "d": 1,
+    "tag": "header",
+    "cls": "border-b border-hairline/40",
+    "y": 0,
+    "h": 61,
+    "w": 1004,
+    "text": "BrandMyLaptop",
+    "kidCount": 1
+   },
+   {
+    "d": 1,
+    "tag": "div",
+    "cls": "mx-auto max-w-5xl px-5 py-8 sm:px-6 md:py-16",
+    "y": 61,
+    "h": 1073,
+    "w": 1004,
+    "text": "Put your lid up. Display currency € EUR $ USD £ GBP Publishing costs a one-off $19. You need a Stripe account to be paid",
+    "kidCount": 5
+   },
+   {
+    "d": 1,
+    "tag": "footer",
+    "cls": "border-t border-hairline",
+    "y": 1134,
+    "h": 565,
+    "w": 1004,
+    "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+    "kidCount": 1
+   },
+   {
+    "d": 1,
+    "tag": "div",
+    "cls": "fixed inset-0 z-[60] flex items-end justify-center bg-ink/40 px-4 py-6 sm:items-center",
+    "y": 0,
+    "h": 900,
+    "w": 1440,
+    "text": "You will need a Stripe account. Buyers pay you directly, so the money never passes through us. It is free, three clicks ",
+    "kidCount": 1
+   }
+  ]
+ }
+]

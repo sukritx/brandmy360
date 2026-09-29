@@ -1,0 +1,251 @@
+[
+ {
+  "step": "Machine",
+  "dropdowns": []
+ },
+ {
+  "step": "Ownership",
+  "dropdowns": []
+ },
+ {
+  "step": "Showcase",
+  "dropdowns": [
+   {
+    "label": "Where will it be seen?",
+    "optCount": 6,
+    "opts": [
+     {
+      "t": "Build in public — posts and videos",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Coworking spaces and cafés",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Conferences and meetups",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Business travel",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Client and investor meetings",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "A campus or university",
+      "tag": "BUTTON",
+      "type": "button"
+     }
+    ],
+    "panelHtml": "<div class=\"absolute left-0 right-0 z-30 mt-1 max-h-72 overflow-y-auto rounded-xl border border-hairline bg-white py-1 shadow-[0_8px_28px_rgba(0,0,0,0.14)]\"><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Build in public — posts and videos</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Coworking spaces and cafés</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Conferences and meetups</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Business travel</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Client and investor meetings</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">A campus or university</span></button></div>"
+   },
+   {
+    "label": "And who are you?",
+    "optCount": 12,
+    "opts": [
+     {
+      "t": "Developer",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Indie hacker / founder",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Designer",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Content creator",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Marketer / growth",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Sales / SDR",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Freelancer / consultant",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Student",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Teacher / researcher",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Finance",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Gamer",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "Something else",
+      "tag": "BUTTON",
+      "type": "button"
+     }
+    ],
+    "panelHtml": "<div class=\"absolute left-0 right-0 z-30 mt-1 max-h-72 overflow-y-auto rounded-xl border border-hairline bg-white py-1 shadow-[0_8px_28px_rgba(0,0,0,0.14)]\"><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Developer</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Indie hacker / founder</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Designer</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Content creator</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Marketer / growth</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Sales / SDR</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Freelancer / consultant</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Student</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Teacher / researcher</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Finance</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Gamer</span></button><button type=\"button\" role=\"option\" aria-selected=\"false\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span class=\"flex h-4 w-4 shrink-0 items-center justify-center rounded border border-hairline\"></span><span class=\"min-w-0 flex-1\">Something else</span></button></div>"
+   }
+  ]
+ },
+ {
+  "step": "Layout",
+  "dropdowns": []
+ },
+ {
+  "step": "Prices",
+  "dropdowns": []
+ },
+ {
+  "step": "Listing",
+  "dropdowns": []
+ },
+ {
+  "step": "Sticker",
+  "dropdowns": []
+ },
+ {
+  "step": "You",
+  "dropdowns": [
+   {
+    "label": "Country of residence",
+    "optCount": 210,
+    "opts": [
+     {
+      "t": "",
+      "tag": "INPUT",
+      "type": "text"
+     },
+     {
+      "t": "🇦🇫Afghanistan",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇦🇱Albania",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇩🇿Algeria",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇦🇩Andorra",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇦🇴Angola",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇦🇮Anguilla",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇦🇬Antigua & Barbuda",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇦🇷Argentina",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇦🇲Armenia",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇦🇼Aruba",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇦🇺Australia",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇦🇹Austria",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇦🇿Azerbaijan",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇧🇸Bahamas",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇧🇭Bahrain",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇧🇩Bangladesh",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇧🇧Barbados",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇧🇾Belarus",
+      "tag": "BUTTON",
+      "type": "button"
+     },
+     {
+      "t": "🇧🇪Belgium",
+      "tag": "BUTTON",
+      "type": "button"
+     }
+    ],
+    "panelHtml": "<div class=\"absolute left-0 right-0 z-30 mt-1 max-h-72 overflow-y-auto rounded-xl border border-hairline bg-white py-1 shadow-[0_8px_28px_rgba(0,0,0,0.14)]\"><div class=\"sticky top-0 border-b border-hairline bg-white px-2 pb-2 pt-1\"><input placeholder=\"Type to search\" class=\"w-full rounded-lg border border-hairline px-2.5 py-1.5 text-[14px] outline-none focus:border-blue\" value=\"\"></div><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇫</span><span class=\"min-w-0 flex-1 truncate\">Afghanistan</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇱</span><span class=\"min-w-0 flex-1 truncate\">Albania</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇩🇿</span><span class=\"min-w-0 flex-1 truncate\">Algeria</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇩</span><span class=\"min-w-0 flex-1 truncate\">Andorra</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇴</span><span class=\"min-w-0 flex-1 truncate\">Angola</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇮</span><span class=\"min-w-0 flex-1 truncate\">Anguilla</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇬</span><span class=\"min-w-0 flex-1 truncate\">Antigua &amp; Barbuda</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇷</span><span class=\"min-w-0 flex-1 truncate\">Argentina</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇲</span><span class=\"min-w-0 flex-1 truncate\">Armenia</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇼</span><span class=\"min-w-0 flex-1 truncate\">Aruba</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇺</span><span class=\"min-w-0 flex-1 truncate\">Australia</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇹</span><span class=\"min-w-0 flex-1 truncate\">Austria</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇦🇿</span><span class=\"min-w-0 flex-1 truncate\">Azerbaijan</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇧🇸</span><span class=\"min-w-0 flex-1 truncate\">Bahamas</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇧🇭</span><span class=\"min-w-0 flex-1 truncate\">Bahrain</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇧🇩</span><span class=\"min-w-0 flex-1 truncate\">Bangladesh</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"text-[16px] leading-none\">🇧🇧</span><span class=\"min-w-0 flex-1 truncate\">Barbados</span></button><button type=\"button\" class=\"flex w-full items-center gap-2.5 px-3 py-2 text-left text-[14px] transition-colors hover:bg-surface\"><span aria-hidden=\"true\" class=\"te"
+   }
+  ]
+ },
+ {
+  "step": "Publish",
+  "dropdowns": []
+ }
+]

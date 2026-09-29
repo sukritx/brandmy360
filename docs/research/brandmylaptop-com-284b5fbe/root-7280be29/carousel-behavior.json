@@ -1,0 +1,12 @@
+{
+ "before": {
+  "scrollLeft": 0,
+  "scrollWidth": 1497,
+  "clientWidth": 892
+ },
+ "after": {
+  "scrollLeft": 605
+ },
+ "cards": 5,
+ "trackCls": "no-scrollbar mt-7 flex snap-x snap-mandatory gap-4 overflow-x-auto pb-2 sm:pb-0"
+}

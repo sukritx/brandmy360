@@ -1,0 +1,32 @@
+[
+ {
+  "i": 1,
+  "y": 145,
+  "h": 50,
+  "cls": "mt-4 text-[clamp(1.8rem,4.5vw,3rem)] font-medium leading-[1.05] tracking-[-0.035em]"
+ },
+ {
+  "i": 2,
+  "y": 211,
+  "h": 52,
+  "cls": "mt-4 max-w-[62ch] text-[16px] leading-relaxed text-ink-2"
+ },
+ {
+  "i": 3,
+  "y": 271,
+  "h": 46,
+  "cls": "mt-2 max-w-[62ch] text-[14px] leading-relaxed text-ink-2"
+ },
+ {
+  "i": 5,
+  "y": 413,
+  "h": 80,
+  "cls": "mt-4 space-y-3"
+ },
+ {
+  "i": 7,
+  "y": 598,
+  "h": 755,
+  "cls": "mt-4"
+ }
+]

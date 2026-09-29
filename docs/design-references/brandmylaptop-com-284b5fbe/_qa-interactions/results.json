@@ -1,0 +1,67 @@
+[
+ {
+  "name": "carousel next/prev",
+  "ok": true,
+  "detail": "{\"before\":0,\"after\":303,\"back\":0,\"moved\":true}"
+ },
+ {
+  "name": "grid filter sort",
+  "ok": true,
+  "detail": "{\"opts\":[\"Most raised\",\"Most viewed\",\"Most followers\",\"Ending soon\"],\"changed\":true,\"label\":\"Most followers\"}"
+ },
+ {
+  "name": "show more cards",
+  "ok": true,
+  "detail": "{\"before\":24,\"after\":29}"
+ },
+ {
+  "name": "FAQ accordion",
+  "ok": true,
+  "detail": "{\"initial\":1,\"afterSecond\":1,\"secondExpanded\":\"true\",\"final\":0}"
+ },
+ {
+  "name": "currency switch",
+  "ok": true,
+  "detail": "{\"usd\":\"$0sold\",\"eur\":\"0 €sold\",\"back\":\"$0sold\",\"persisted\":\"USD\"}"
+ },
+ {
+  "name": "anchor targets exist",
+  "ok": true,
+  "detail": "{\"laptops\":2,\"how\":2,\"sell\":5,\"targets\":true}"
+ },
+ {
+  "name": "no runtime errors (home)",
+  "ok": true,
+  "detail": "[]"
+ },
+ {
+  "name": "mobile menu toggle",
+  "ok": true,
+  "detail": "{\"before\":false,\"after\":true,\"links\":5,\"closed\":true}"
+ },
+ {
+  "name": "stripe modal",
+  "ok": true,
+  "detail": "{\"open\":true,\"closed\":true}"
+ },
+ {
+  "name": "wizard advances",
+  "ok": false,
+  "detail": "reached 6 enabled continue states; steps=[\"0:ok\",\"1:ok\",\"2:blocked\",\"3:ok\",\"4:blocked\",\"5:ok\",\"6:ok\",\"7:blocked\",\"8:blocked\"]"
+ },
+ {
+  "name": "no runtime errors (sell)",
+  "ok": true,
+  "detail": "[]"
+ },
+ {
+  "name": "briefs pills max 4",
+  "ok": true,
+  "detail": "{\"base\":12,\"four\":4,\"five\":4,\"afterDeselect\":3}"
+ },
+ {
+  "name": "stats bars present",
+  "ok": true,
+  "detail": "{\"count\":7,\"sample\":[\"width:14.285714285714285%\",\"width:18.681318681318682%\",\"width:27.472527472527474%\",\"width:100%\"]}"
+ }
+]

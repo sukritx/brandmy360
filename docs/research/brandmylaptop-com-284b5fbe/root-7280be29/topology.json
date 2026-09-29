@@ -1,0 +1,137 @@
+{
+ "rows": [
+  {
+   "d": 0,
+   "tag": "div",
+   "cls": "min-h-screen",
+   "y": 53,
+   "h": 9551,
+   "w": 1004,
+   "text": "$13,794 of ad space sold · 42,420 visits The marketplace for ads on laptops. Creators sell the sticker spots on their li",
+   "kidCount": 2
+  },
+  {
+   "d": 1,
+   "tag": "main",
+   "cls": "",
+   "y": 53,
+   "h": 8986,
+   "w": 1004,
+   "text": "$13,794 of ad space sold · 42,420 visits The marketplace for ads on laptops. Creators sell the sticker spots on their li",
+   "kidCount": 9
+  },
+  {
+   "d": 2,
+   "tag": "header",
+   "cls": "mx-auto max-w-5xl px-6 pb-10 pt-12 text-center md:pt-16",
+   "y": 53,
+   "h": 580,
+   "w": 1004,
+   "text": "$13,794 of ad space sold · 42,420 visits The marketplace for ads on laptops. Creators sell the sticker spots on their li",
+   "kidCount": 7
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "animate-featured mx-4 overflow-hidden rounded-3xl bg-ink py-6 text-white sm:mx-6 lg:mx-8",
+   "y": 633,
+   "h": 559,
+   "w": 940,
+   "text": "Featured now 10 Spots on my Creator Economy Tour | Dallas, NYC, London and Miami Niall MacMillan · ~9.1M $0of $5,133 11/",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mx-4 mt-4 scroll-mt-20 rounded-3xl bg-surface pb-16 pt-8 sm:mx-6 sm:mt-6 md:pb-24 md:pt-10 lg:mx-8",
+   "y": 1216,
+   "h": 3534,
+   "w": 940,
+   "text": "166 laptops looking for brands Most raised Seen at Ownership How you buy Who they are PrivateAlps Draftline Fantasy Serv",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "border-t border-hairline/60 bg-white py-12 md:py-16",
+   "y": 4750,
+   "h": 509,
+   "w": 1004,
+   "text": "Just sold Every spot bought on these lids Pushup RPG took a spot on Eliana’s lid $228 2d ago Pushup RPG took a spot on M",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "scroll-mt-20 py-16 md:py-24",
+   "y": 5259,
+   "h": 572,
+   "w": 1004,
+   "text": "What sold this week, every week One email a week: the spots that sold, what brands paid for them, the laptops that went ",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mx-4 mt-4 overflow-hidden rounded-3xl bg-ink py-24 text-white sm:mx-6 sm:mt-6 md:py-36 lg:mx-8",
+   "y": 5855,
+   "h": 519,
+   "w": 940,
+   "text": "Everyone stares at laptop lids. Yours may as well get paid.",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mx-auto max-w-5xl scroll-mt-20 px-6 py-16 md:py-20",
+   "y": 6374,
+   "h": 1084,
+   "w": 1004,
+   "text": "Laptops fully branded. $18,886 of ad space bought by brands, across 3 laptops. PrivateAlps Draftline Fantasy ServicePro.",
+   "kidCount": 4
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "scroll-mt-20 mx-auto max-w-4xl px-6 py-16 md:py-24",
+   "y": 7458,
+   "h": 704,
+   "w": 896,
+   "text": "How it works Most lids sell at a fixed price. Some run an auction instead: brands bid for a few days, and the highest ap",
+   "kidCount": 3
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mx-4 mt-4 scroll-mt-20 rounded-3xl bg-surface py-16 sm:mx-6 sm:mt-6 md:py-24 lg:mx-8",
+   "y": 8186,
+   "h": 853,
+   "w": 940,
+   "text": "Questions & Answers Is this real? + It started as brandmymac.com — one MacBook, twenty sticker spots on the lid, inside ",
+   "kidCount": 1
+  },
+  {
+   "d": 1,
+   "tag": "footer",
+   "cls": "border-t border-hairline",
+   "y": 9039,
+   "h": 565,
+   "w": 1004,
+   "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mx-auto max-w-5xl px-6 py-12",
+   "y": 9040,
+   "h": 564,
+   "w": 1004,
+   "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+   "kidCount": 3
+  }
+ ],
+ "mainTag": "DIV",
+ "mainCls": "min-h-screen",
+ "scrollH": 9604
+}

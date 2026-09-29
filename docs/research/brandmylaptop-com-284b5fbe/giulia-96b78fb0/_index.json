@@ -1,0 +1,66 @@
+[
+ {
+  "i": 12,
+  "tag": "NAV",
+  "cls": "sticky top-0 z-50 border-b border-hairline/70 bg-white/70 backdrop-blur-xl",
+  "y": 0,
+  "h": 53,
+  "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid"
+ },
+ {
+  "i": 13,
+  "tag": "ASIDE",
+  "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:w-[230px] left-2 2xl:left-5",
+  "y": 80,
+  "h": 804,
+  "text": "SPONSORS Your startup here RankControl AI SEO Platform TinyLaunch Grow your DR on autopilot! Your startup here Your star"
+ },
+ {
+  "i": 14,
+  "tag": "ASIDE",
+  "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:w-[230px] right-2 2xl:right-5",
+  "y": 80,
+  "h": 804,
+  "text": "SPONSORS Your startup here Your startup here Your startup here Your startup here Your startup here Your startup here"
+ },
+ {
+  "i": 17,
+  "tag": "HEADER",
+  "cls": "mx-auto max-w-5xl px-6 pt-10 pb-16 text-center md:pt-14",
+  "y": 53,
+  "h": 1146,
+  "text": "4,817 views on this lid Ad space on Giulia's 16″ MacBook Want to sponsor my next season? 👀 4 200 €sold goal passed · 10"
+ },
+ {
+  "i": 18,
+  "tag": "SECTION",
+  "cls": "scroll-mt-20 py-16 md:py-20",
+  "y": 1199,
+  "h": 903,
+  "text": "The details. Who you are buying from giulia @giutheginger · 13.3k followers 13k followers LinkedIn Instagram 22K followe"
+ },
+ {
+  "i": 19,
+  "tag": "SECTION",
+  "cls": "mx-4 mt-4 scroll-mt-20 rounded-3xl bg-surface py-16 sm:mx-6 sm:mt-6 md:py-24 lg:mx-8",
+  "y": 2126,
+  "h": 1000,
+  "text": "The spots. This listing has closed. What sold stays on the lid for 24 months. Spot Size Taken by Price Action 1Top left "
+ },
+ {
+  "i": 20,
+  "tag": "SECTION",
+  "cls": "mx-4 mt-4 scroll-mt-20 rounded-3xl py-16 sm:mx-6 sm:mt-6 md:py-20 lg:mx-8 bg-surface",
+  "y": 3150,
+  "h": 449,
+  "text": "Other laptops looking for brands. This one has closed, but these are still taking brands. Marc Berthold Content creator "
+ },
+ {
+  "i": 21,
+  "tag": "FOOTER",
+  "cls": "border-t border-hairline",
+  "y": 3599,
+  "h": 565,
+  "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $"
+ }
+]

@@ -1,0 +1,1547 @@
+{
+ "laptops": [
+  {
+   "slug": "themillionairesdrop",
+   "title": "👀 Your Brand With Me: 450K+ Followers, Keynotes, Workshops, Embassies 🇪🇺",
+   "author": "Marc Berthold",
+   "followers": "~455k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/9ff814df-d147-45b7-8fa3-c7e7ff6f8d6f.jpg",
+   "socials": 4,
+   "raised": 0,
+   "goal": 4914,
+   "soldOnly": false,
+   "spots": "10/10 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(59, 59, 61) 0%, rgb(42, 42, 44) 45%, rgb(27, 27, 29) 100%); box-shadow: rgba(255, 255, 255, 0.14) 0px 1px 0px inset, rgba(0, 0, 0, 0.5) 0px -1px 0px inset, rgba(0, 0, 0, 0.38) 0px 30px 60px -18px, rgba(0, 0, 0, 0.26) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "linkedin",
+    "tiktok",
+    "instagram",
+    "twitch"
+   ],
+   "rightLabel": "10/10 left",
+   "leftSuffix": "of $4,914",
+   "caption": "Personal brand expert, speaker, content creator..."
+  },
+  {
+   "slug": "digbyfox",
+   "title": "Digby+Fox is taking 11 brands into every room for the next 12 months.",
+   "author": "Gary Digby",
+   "followers": null,
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/cb53e5aa-b324-4d6c-8db1-906d246b135a.jpg",
+   "socials": 1,
+   "raised": 527,
+   "goal": 3250,
+   "soldOnly": false,
+   "spots": "7/10 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "1 / 3 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/e84d1964-711e-4900-9e2a-8146294b1942.png",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "Digby+Fox"
+     },
+     {
+      "area": "2 / 1 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/22cb75ea-d31d-4128-af8b-5e2f856d21f7.jpg",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "2 / 6 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/86f916d3-062b-4e5b-991d-093878d810f8.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [
+    "linkedin"
+   ],
+   "rightLabel": "7/10 left",
+   "leftSuffix": "of $3,250",
+   "caption": "Hospitality real estate!"
+  },
+  {
+   "slug": "ash",
+   "title": "Sponsor EVERY second I use my laptop 👀",
+   "author": "@asherphizzle",
+   "followers": "3k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/ed3e89ed-0d54-4fe4-8f06-69cf78ddc094.jpg",
+   "socials": 2,
+   "raised": 205,
+   "goal": 4000,
+   "soldOnly": false,
+   "spots": "9/10 left",
+   "stamp": "ends in 6d",
+   "stampClass": "pointer-events-none absolute -bottom-2.5 left-1/2 z-10 max-w-[92%] -translate-x-1/2 truncate whitespace-nowrap rounded-full border border-hairline bg-white px-2.5 py-1 text-[11px] shadow-[0_2px_8px_rgba(0,0,0,0.10)] font-medium text-ink-2",
+   "tags": [],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "2 / 1 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/cc4ac427-3a34-40da-a116-72ae778be119.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [
+    "x",
+    "linkedin"
+   ],
+   "rightLabel": "9/10 left",
+   "leftSuffix": "of $4,000",
+   "caption": "Award-winning advisor & consult"
+  },
+  {
+   "slug": "ai",
+   "title": "Sponsor My MacBook Across Barcelona, SF & Lisbon. 3 Major Tech Events.",
+   "author": "Tetiana Stepanets",
+   "followers": "~826k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/4b9a7cb3-fb20-40f8-96e9-79a9d5d5734d.png",
+   "socials": 3,
+   "raised": 0,
+   "goal": null,
+   "soldOnly": true,
+   "spots": "$0sold",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "sold"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(59, 59, 61) 0%, rgb(42, 42, 44) 45%, rgb(27, 27, 29) 100%); box-shadow: rgba(255, 255, 255, 0.14) 0px 1px 0px inset, rgba(0, 0, 0, 0.5) 0px -1px 0px inset, rgba(0, 0, 0, 0.38) 0px 30px 60px -18px, rgba(0, 0, 0, 0.26) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "linkedin",
+    "instagram",
+    "youtube"
+   ],
+   "rightLabel": "11/11 left",
+   "leftSuffix": "sold",
+   "caption": "Going to 3 Major Tech Events 🔥"
+  },
+  {
+   "slug": "dngi",
+   "title": "Invest Into The Future (ABSOLUTE CINEMA)",
+   "author": "@_dngi",
+   "followers": "~1.2k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/82aad366-76de-4374-87cd-19bda65cb337.jpg",
+   "socials": 2,
+   "raised": 0,
+   "goal": 3978,
+   "soldOnly": false,
+   "spots": "10/10 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "x",
+    "linkedin"
+   ],
+   "rightLabel": "10/10 left",
+   "leftSuffix": "of $3,978",
+   "caption": "Cinematographic, creative content 🔥"
+  },
+  {
+   "slug": "https://brandmymac.com",
+   "title": "The OG — BrandMyMac.com",
+   "author": "@vynsedev",
+   "followers": null,
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/media/vincent.webp",
+   "socials": 0,
+   "raised": 9307,
+   "goal": 2959,
+   "soldOnly": false,
+   "spots": null,
+   "stamp": "Sold out",
+   "stampClass": "sold-stamp pointer-events-none absolute -bottom-2.5 left-1/2 z-10 -translate-x-1/2 whitespace-nowrap rounded-full px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.06em] text-white",
+   "tags": [
+    "goal: 315%",
+    "Sold out"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "1 / 1 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/sites/brandmylaptop-com-284b5fbe/shared/og/macpaw.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "1 / 3 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/og/see-io.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "1 / 5 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/og/privatealps.png",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "PrivateAlps"
+     },
+     {
+      "area": "2 / 1 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/og/draftline-fantasy.png",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "Draftline Fantasy"
+     },
+     {
+      "area": "2 / 2 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/og/surf-office.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "2 / 5 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/og/servicepro.svg",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "ServicePro.co"
+     },
+     {
+      "area": "2 / 6 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/og/moyai.png",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "Moyai"
+     },
+     {
+      "area": "3 / 1 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/og/emma-pet.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "3 / 3 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/og/felyn-go.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "3 / 5 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/og/nero.svg",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [],
+   "rightLabel": "goal: 315%",
+   "leftSuffix": "of $2,959"
+  },
+  {
+   "slug": "giulia",
+   "title": "Want to sponsor my next season? 👀",
+   "author": "@giutheginger",
+   "followers": "13k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/9d4978f7-2dd4-482b-ab44-40888685c319.jpg",
+   "socials": 3,
+   "raised": 4914,
+   "goal": 4914,
+   "soldOnly": false,
+   "spots": null,
+   "stamp": "Sold out",
+   "stampClass": "sold-stamp pointer-events-none absolute -bottom-2.5 left-1/2 z-10 -translate-x-1/2 whitespace-nowrap rounded-full px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.06em] text-white",
+   "tags": [
+    "goal: 100%",
+    "Sold out"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "1 / 1 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/8adae3f5-1420-4f0c-b12d-2234e4fce49b.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "1 / 3 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/cf8fc1a6-acfa-4c3d-805d-06533140623c.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "1 / 5 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/7f3df47c-221f-4b41-8f38-eba558b71dad.svg",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "2 / 1 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/5e09b6c6-6ebb-4dc4-8fb2-0767fc1fabf3.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "2 / 2 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/eb39d9eb-cfcf-475f-aad6-2c7c4f2abe50.png",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "Creatorbuzz"
+     },
+     {
+      "area": "2 / 5 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/ef8224ec-6cc5-4ae8-bd18-f0155ff53d68.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "2 / 6 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/9f2df6de-5fd8-4549-8f15-37e0a7aa2137.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "3 / 1 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/9e79522c-71d1-462c-9bea-43b05c7cea0b.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "3 / 3 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/9b1a1df8-3a81-403c-81d7-a5bdfe32902a.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "3 / 5 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/126313b4-203b-4fb8-ab58-cfb7a847672b.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [
+    "x",
+    "linkedin",
+    "instagram"
+   ],
+   "rightLabel": "goal: 100%",
+   "leftSuffix": "of $4,914"
+  },
+  {
+   "slug": "anniemaihodge",
+   "title": "Come to Boston with me !! ✈️",
+   "author": "@anniemaisocial",
+   "followers": "~220k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/ca932926-d4c0-45ba-a854-b9bed9e775e9.jpg",
+   "socials": 2,
+   "raised": 4282,
+   "goal": null,
+   "soldOnly": true,
+   "spots": "$4,282sold",
+   "stamp": "Sold out",
+   "stampClass": "sold-stamp pointer-events-none absolute -bottom-2.5 left-1/2 z-10 -translate-x-1/2 whitespace-nowrap rounded-full px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.06em] text-white",
+   "tags": [
+    "sold",
+    "10/10 spots",
+    "Sold out"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "1 / 1 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/d5f02bb0-fd6b-4776-b02f-467b277289be.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "1 / 3 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/3f786696-2fd3-4181-98ed-5c6586022032.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "1 / 5 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/feb5e89e-8af4-4b03-b078-d9e8660a0159.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "2 / 1 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/1d313335-0d8a-4448-badd-b051d1628045.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "2 / 2 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/e97da65d-931a-49e8-9af9-6e56d2515042.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "2 / 5 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/3f6e1eaa-52ef-4f0c-9d58-268d127227ab.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "2 / 6 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/5d69104f-fc8f-4aed-b640-2c17290ed15b.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "3 / 1 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/8fbe7e42-5fc6-4e1c-8107-c23d7050a857.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "3 / 3 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/aa7232ad-8449-406a-80c2-1af094654d20.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "3 / 5 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/077b5164-d846-44d4-81f0-68779e317868.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [
+    "linkedin",
+    "instagram"
+   ],
+   "rightLabel": "10/10 spots",
+   "leftSuffix": "sold"
+  },
+  {
+   "slug": "buylaptopfightcancer",
+   "title": "I buy the laptop and we fight together against cancer 💪❤️",
+   "author": "@BunnyStockCorp",
+   "followers": "77",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/e59010ae-df9a-450a-88e3-9b1668de3d09.jpg",
+   "socials": 1,
+   "raised": 1170,
+   "goal": 2959,
+   "soldOnly": false,
+   "spots": "10/11 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "2 / 3 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/a2474f07-4ee9-4e54-946f-7abd481fa530.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [
+    "x"
+   ],
+   "rightLabel": "10/11 left",
+   "leftSuffix": "of $2,959"
+  },
+  {
+   "slug": "alexweber",
+   "title": "11 spots on my Mac",
+   "author": "Alexandre Weber",
+   "followers": "~13k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/c890eadc-835d-479e-914c-1a27f882392d.jpg",
+   "socials": 4,
+   "raised": null,
+   "goal": null,
+   "soldOnly": false,
+   "spots": "9/11 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "+1"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "2 / 1 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/cdf4519e-732b-4715-8bff-b1ae401efd75.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "3 / 5 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/2a950f3d-4f37-40ac-9cce-a08ee8fbe2bc.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [
+    "linkedin",
+    "youtube",
+    "instagram",
+    "tiktok"
+   ],
+   "rightLabel": "9/11 left",
+   "leftSuffix": "of $3,457"
+  },
+  {
+   "slug": "eliana",
+   "title": "Your logo on my mac - Help fund Favour’s laptop",
+   "author": "@eliana_jordan",
+   "followers": "29k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/9cf86882-6648-42b3-b07e-4865571413df.jpg",
+   "socials": 4,
+   "raised": 228,
+   "goal": 4500,
+   "soldOnly": false,
+   "spots": "10/11 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(59, 59, 61) 0%, rgb(42, 42, 44) 45%, rgb(27, 27, 29) 100%); box-shadow: rgba(255, 255, 255, 0.14) 0px 1px 0px inset, rgba(0, 0, 0, 0.5) 0px -1px 0px inset, rgba(0, 0, 0, 0.38) 0px 30px 60px -18px, rgba(0, 0, 0, 0.26) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "2 / 6 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/391d41f1-7a71-4d18-ab1b-ebf8f87698be.png",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "Pushup RPG"
+     }
+    ]
+   },
+   "socialsList": [
+    "x",
+    "instagram",
+    "linkedin",
+    "youtube"
+   ],
+   "rightLabel": "10/11 left",
+   "leftSuffix": "of $4,500"
+  },
+  {
+   "slug": "nomad",
+   "title": "Your logo in Thailand's nomad coworkings, 24 months, spots from $29",
+   "author": "@alexrockboy",
+   "followers": "1",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/media/WhofAdEW_400x400.jpg",
+   "socials": 1,
+   "raised": 199,
+   "goal": 1700,
+   "soldOnly": false,
+   "spots": "9/11 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "1 / 3 / auto / span 2",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/51f5caef-10ef-4ef3-b9db-4ac18370a290.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "2 / 1 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/37ca6de2-4401-475b-998b-5540e9be7632.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [
+    "x"
+   ],
+   "rightLabel": "9/11 left",
+   "leftSuffix": "of $1,700"
+  },
+  {
+   "slug": "adam",
+   "title": "\"I am once again asking for your financial support.\" - Adam Hamdan (and Bernie)",
+   "author": "@adamha03",
+   "followers": "~1.2k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/11628948-b023-4a02-9caf-c9fa4c1bd88f.png",
+   "socials": 2,
+   "raised": null,
+   "goal": null,
+   "soldOnly": false,
+   "spots": "$170sold",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "sold"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "2 / 6 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/c2743c16-e062-401b-a5ba-455a91730cf8.png",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "Emme"
+     }
+    ]
+   },
+   "socialsList": [
+    "linkedin",
+    "instagram"
+   ],
+   "rightLabel": "10/11 left",
+   "leftSuffix": "sold"
+  },
+  {
+   "slug": "margaridaporto",
+   "title": "Sponsor free spots for career mentoring for unemployed people (PT-speaking)",
+   "author": "Margarida  Porto",
+   "followers": "~35k",
+   "avatar": "https://rihdbhaulfvzfhbafmax.supabase.co/storage/v1/object/public/logos/avatars/c86c762d-15a4-47d0-baeb-f0d3ad1f1927.jpg?v=mu33rmuw",
+   "socials": 3,
+   "raised": 158,
+   "goal": 5850,
+   "soldOnly": false,
+   "spots": "9/10 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "+2"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "2 / 6 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/0ef4f13c-abce-4c73-be83-e8a8bf10ae64.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [
+    "linkedin",
+    "instagram",
+    "youtube"
+   ],
+   "rightLabel": "9/10 left",
+   "leftSuffix": "of $5,850"
+  },
+  {
+   "slug": "ultan",
+   "title": "get seen by my 19k LinkedIn Followers (and 345k avg monthly impressions!)",
+   "author": "@Ultan_U",
+   "followers": "9",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/908f8614-40ad-40e8-9cab-defadf49c5f6.jpg",
+   "socials": 2,
+   "raised": 140,
+   "goal": null,
+   "soldOnly": true,
+   "spots": "$140sold",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "sold"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "2 / 1 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/90d5c610-e14a-481c-ac69-004c38056a80.jpg",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "Giorgio"
+     },
+     {
+      "area": "2 / 2 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/eb67bd8f-647e-49bb-94e9-d362fd81a1c3.jpg",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "TheKiln"
+     },
+     {
+      "area": "2 / 5 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/6b6e5669-e72f-4bc5-925d-53c98aa32dae.png",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "MicroHalos"
+     },
+     {
+      "area": "2 / 6 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/a12c9d59-9d2c-4609-b171-f36d8b54fc5d.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [
+    "x",
+    "linkedin"
+   ],
+   "rightLabel": "6/10 left",
+   "leftSuffix": "sold"
+  },
+  {
+   "slug": "djnlj",
+   "title": "Your brand on my DJ and LJ laptop",
+   "author": "@CailWolf",
+   "followers": "~235",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/0974027f-b5e8-4b01-91e6-ea7a581cc0bd.png",
+   "socials": 3,
+   "raised": null,
+   "goal": null,
+   "soldOnly": false,
+   "spots": "9/11 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "+2"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, var(--lid-dark-1) 0%, var(--lid-dark-2) 45%, var(--lid-dark-3) 100%); box-shadow: rgba(255, 255, 255, 0.14) 0px 1px 0px inset, rgba(0, 0, 0, 0.5) 0px -1px 0px inset, rgba(0, 0, 0, 0.38) 0px 30px 60px -18px, rgba(0, 0, 0, 0.26) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "2 / 1 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/6c9e3b3c-d92b-4872-8dd7-70ec3ce4bab8.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     },
+     {
+      "area": "2 / 6 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/d225692b-1f40-4d75-b020-ab571681ced0.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [
+    "x",
+    "twitch",
+    "youtube"
+   ],
+   "rightLabel": "9/11 left",
+   "leftSuffix": "of $1,170"
+  },
+  {
+   "slug": "apple",
+   "title": "Glowing Apple logo, 2012 MacBook Air - ten spots around it",
+   "author": "@bangkokbuild",
+   "followers": "463",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/4398bd22-c950-44fb-a3f5-3bd432de563d.jpg",
+   "socials": 1,
+   "raised": 59,
+   "goal": null,
+   "soldOnly": true,
+   "spots": "$59sold",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "sold"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "2 / 1 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/4692ee81-f985-4db7-a35a-283a80041700.png",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "Pushup RPG"
+     },
+     {
+      "area": "2 / 6 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/7f87d646-2688-40af-932d-5b594c41010b.png",
+      "imgStyle": "max-height: 56%; max-width: 88%;",
+      "label": null
+     }
+    ]
+   },
+   "socialsList": [
+    "x"
+   ],
+   "rightLabel": "8/10 left",
+   "leftSuffix": "sold"
+  },
+  {
+   "slug": "yassinezaanouni",
+   "title": "Your Brand Will Travel With a Digital Nomad 🌎",
+   "author": "@YassineZaanouni",
+   "followers": "261",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/51a22056-dd1f-4c2b-b231-22448ea051a8.jpg",
+   "socials": 2,
+   "raised": 29,
+   "goal": null,
+   "soldOnly": true,
+   "spots": "$29sold",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "sold"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": [
+     {
+      "area": "2 / 1 / auto / span 1",
+      "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/4e197e88-9101-47bd-aeb6-760f87e255d4.png",
+      "imgStyle": "max-height: 34%; max-width: 52%;",
+      "label": "Reelfolio"
+     }
+    ]
+   },
+   "socialsList": [
+    "x",
+    "linkedin"
+   ],
+   "rightLabel": "9/10 left",
+   "leftSuffix": "sold"
+  },
+  {
+   "slug": "sapirtori",
+   "title": "6 spots on my MacBook",
+   "author": "Sapir Tori",
+   "followers": "~5.7k",
+   "avatar": "https://rihdbhaulfvzfhbafmax.supabase.co/storage/v1/object/public/logos/avatars/5506e00a-3399-4812-a29c-e79cb7c4acb5.jpg?v=muioxym4",
+   "socials": 1,
+   "raised": 0,
+   "goal": null,
+   "soldOnly": true,
+   "spots": "$0sold",
+   "stamp": "Auction · ends in 5d",
+   "stampClass": "auction-stamp pointer-events-none absolute -bottom-2.5 left-1/2 z-10 max-w-[92%] -translate-x-1/2 truncate whitespace-nowrap rounded-full px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.06em] text-white",
+   "tags": [
+    "sold",
+    "Auction · ends in 5d"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(59, 59, 61) 0%, rgb(42, 42, 44) 45%, rgb(27, 27, 29) 100%); box-shadow: rgba(255, 255, 255, 0.14) 0px 1px 0px inset, rgba(0, 0, 0, 0.5) 0px -1px 0px inset, rgba(0, 0, 0, 0.38) 0px 30px 60px -18px, rgba(0, 0, 0, 0.26) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "linkedin"
+   ],
+   "rightLabel": "6/6 left",
+   "leftSuffix": "sold"
+  },
+  {
+   "slug": "researchpreneurs",
+   "title": "Geeky CEO travels around the world and powers our CTO with a new dream machine",
+   "author": "Dr. Tina Evgraf",
+   "followers": "~12k",
+   "avatar": "https://rihdbhaulfvzfhbafmax.supabase.co/storage/v1/object/public/logos/avatars/13fdd258-ccf0-470a-8a6a-aa837313bf79.jpg?v=mui74rse",
+   "socials": 1,
+   "raised": 0,
+   "goal": 6552,
+   "soldOnly": false,
+   "spots": "10/10 left",
+   "stamp": "Auction · ends in 5d",
+   "stampClass": "auction-stamp pointer-events-none absolute -bottom-2.5 left-1/2 z-10 max-w-[92%] -translate-x-1/2 truncate whitespace-nowrap rounded-full px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.06em] text-white",
+   "tags": [
+    "Auction · ends in 5d"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "linkedin"
+   ],
+   "rightLabel": "10/10 left",
+   "leftSuffix": "of $6,552"
+  },
+  {
+   "slug": "sleekchris",
+   "title": "Global 🌎 Business Travel - Airports/Meetups/Meetings - EU/IN/CH/US/DNS/SA+",
+   "author": "Christopher Leineweber",
+   "followers": "~6k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/a9afc293-eb1d-4e67-beb7-f4c961633c66.jpg",
+   "socials": 2,
+   "raised": 0,
+   "goal": null,
+   "soldOnly": true,
+   "spots": "$0sold",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "sold"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "instagram",
+    "linkedin"
+   ],
+   "rightLabel": "11/11 left",
+   "leftSuffix": "sold"
+  },
+  {
+   "slug": "deni",
+   "title": "Get your brand seen by 1M+ people, online & IRL 👀",
+   "author": "@DeniCodes",
+   "followers": "2.5k+1",
+   "avatar": "https://rihdbhaulfvzfhbafmax.supabase.co/storage/v1/object/public/logos/avatars/2f30f4ee-6853-4a71-a954-a8adfea29575.jpg?v=mtvhh83f",
+   "socials": 4,
+   "raised": 0,
+   "goal": 5850,
+   "soldOnly": false,
+   "spots": "11/11 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "+1"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "x",
+    "linkedin",
+    "youtube",
+    "instagram"
+   ],
+   "rightLabel": "11/11 left",
+   "leftSuffix": "of $5,850"
+  },
+  {
+   "slug": "christianmm",
+   "title": "Help Build a Local AI Mac — 10 Brands. One Machine. 🧠",
+   "author": "@CMM_AI_",
+   "followers": "~105",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/92efcf67-fb4a-4c64-aa72-efa4cee60ec8.jpg",
+   "socials": 2,
+   "raised": 0,
+   "goal": 3415,
+   "soldOnly": false,
+   "spots": "11/11 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(59, 59, 61) 0%, rgb(42, 42, 44) 45%, rgb(27, 27, 29) 100%); box-shadow: rgba(255, 255, 255, 0.14) 0px 1px 0px inset, rgba(0, 0, 0, 0.5) 0px -1px 0px inset, rgba(0, 0, 0, 0.38) 0px 30px 60px -18px, rgba(0, 0, 0, 0.26) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "linkedin",
+    "instagram"
+   ],
+   "rightLabel": "11/11 left",
+   "leftSuffix": "of $3,415"
+  },
+  {
+   "slug": "uxchrisnguyen",
+   "title": "Get in front of 100K designers",
+   "author": "@uxchrisnguyen",
+   "followers": "~93k+1",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/e24d0b5c-1429-4505-a2d3-a4827bcfbcd4.jpg",
+   "socials": 4,
+   "raised": 0,
+   "goal": null,
+   "soldOnly": true,
+   "spots": "$0sold",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "+1",
+    "+1",
+    "sold"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(59, 59, 61) 0%, rgb(42, 42, 44) 45%, rgb(27, 27, 29) 100%); box-shadow: rgba(255, 255, 255, 0.14) 0px 1px 0px inset, rgba(0, 0, 0, 0.5) 0px -1px 0px inset, rgba(0, 0, 0, 0.38) 0px 30px 60px -18px, rgba(0, 0, 0, 0.26) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "x",
+    "linkedin",
+    "tiktok",
+    "instagram"
+   ],
+   "rightLabel": "10/10 left",
+   "leftSuffix": "sold"
+  },
+  {
+   "slug": "creativelyange",
+   "title": "get featured on my content (50k) and also for 3 weeks in SF",
+   "author": "@creativelyange",
+   "followers": "~43k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/cf981e4d-193d-4163-8b2e-6e19f8435bb2.jpg",
+   "socials": 3,
+   "raised": 0,
+   "goal": 5086,
+   "soldOnly": false,
+   "spots": "11/11 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "+1"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "x",
+    "instagram",
+    "tiktok"
+   ],
+   "rightLabel": "11/11 left",
+   "leftSuffix": "of $5,086"
+  },
+  {
+   "slug": "midnightmiso",
+   "title": "11 Spots On My \"Study With Me\" MacBook",
+   "author": "@midnightmisow",
+   "followers": "~158k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/514bb7c0-fb8d-4f9b-9dd5-c16dcadae8b9.jpg",
+   "socials": 3,
+   "raised": 0,
+   "goal": null,
+   "soldOnly": true,
+   "spots": "$0sold",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "sold"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "rightLabel": "11/11 left",
+   "leftSuffix": "sold"
+  },
+  {
+   "slug": "ivan",
+   "title": "Your logo on a Tech Leader's laptop at global tech summits",
+   "author": "@Ivangrisa",
+   "followers": "6.1k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/f5e91d4c-1f9a-4e2a-a139-c35de29e9373.jpg",
+   "socials": 3,
+   "raised": 0,
+   "goal": 2924,
+   "soldOnly": false,
+   "spots": "11/11 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(59, 59, 61) 0%, rgb(42, 42, 44) 45%, rgb(27, 27, 29) 100%); box-shadow: rgba(255, 255, 255, 0.14) 0px 1px 0px inset, rgba(0, 0, 0, 0.5) 0px -1px 0px inset, rgba(0, 0, 0, 0.38) 0px 30px 60px -18px, rgba(0, 0, 0, 0.26) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "x",
+    "linkedin",
+    "instagram"
+   ],
+   "rightLabel": "11/11 left",
+   "leftSuffix": "of $2,924"
+  },
+  {
+   "slug": "meagan-glenn",
+   "title": "Fractional PM who builds in public. Your logo, in front of early-stage SaaS",
+   "author": "Meagan Glenn",
+   "followers": "~10k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/bc767cd4-9d04-4688-a07d-c82edef3204d.jpg",
+   "socials": 3,
+   "raised": 0,
+   "goal": null,
+   "soldOnly": true,
+   "spots": "$0sold",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "+2",
+    "sold"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "linkedin",
+    "tiktok",
+    "instagram"
+   ],
+   "rightLabel": "7/7 left",
+   "leftSuffix": "sold"
+  },
+  {
+   "slug": "jp",
+   "title": "Come to NYC🗽 with me!",
+   "author": "Julio Ponce Marín",
+   "followers": "~1.7k",
+   "avatar": "/sites/brandmylaptop-com-284b5fbe/shared/avatars/ed69464b-7cae-4de5-8358-a214493132fb.jpg",
+   "socials": 3,
+   "raised": 0,
+   "goal": 2800,
+   "soldOnly": false,
+   "spots": "10/10 left",
+   "stamp": null,
+   "stampClass": null,
+   "tags": [
+    "+1"
+   ],
+   "lid": {
+    "lidStyle": "container-type: inline-size; ",
+    "lidBg": "aspect-ratio: 1.44 / 1; background: linear-gradient(172deg, rgb(236, 236, 237) 0%, rgb(220, 220, 223) 45%, rgb(200, 200, 205) 100%); box-shadow: rgba(255, 255, 255, 0.9) 0px 1px 0px inset, rgba(0, 0, 0, 0.18) 0px -1px 0px inset, rgba(0, 0, 0, 0.28) 0px 30px 60px -18px, rgba(0, 0, 0, 0.18) 0px 12px 24px -12px;",
+    "slots": []
+   },
+   "socialsList": [
+    "linkedin",
+    "instagram",
+    "youtube"
+   ],
+   "rightLabel": "10/10 left",
+   "leftSuffix": "of $2,800"
+  }
+ ],
+ "brandsList": [
+  {
+   "name": "Pushup RPG",
+   "meta": "2 placements · 6d ago",
+   "amount": 257,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/391d41f1-7a71-4d18-ab1b-ebf8f87698be.png"
+  },
+  {
+   "name": "Conscious Marketing Movement",
+   "meta": "on Margarida Porto's laptop · 11d ago",
+   "amount": 158,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/0ef4f13c-abce-4c73-be83-e8a8bf10ae64.png"
+  },
+  {
+   "name": "Dial A Geek",
+   "meta": "2 placements · 12d ago",
+   "amount": 234,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/d225692b-1f40-4d75-b020-ab571681ced0.png"
+  },
+  {
+   "name": "Sixtyfive Group",
+   "meta": "on Gary Digby's laptop · 13d ago",
+   "amount": 263,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/22cb75ea-d31d-4128-af8b-5e2f856d21f7.jpg"
+  },
+  {
+   "name": "Well Seasoned",
+   "meta": "on Gary Digby's laptop · 13d ago",
+   "amount": 263,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/86f916d3-062b-4e5b-991d-093878d810f8.png"
+  },
+  {
+   "name": "Botpool",
+   "meta": "3 placements · 17d ago",
+   "amount": 427,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/a12c9d59-9d2c-4609-b171-f36d8b54fc5d.png"
+  },
+  {
+   "name": "myMind",
+   "meta": "on Alexandre Weber's laptop · 17d ago",
+   "amount": 146,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/cdf4519e-732b-4715-8bff-b1ae401efd75.png"
+  },
+  {
+   "name": "eSIMDB",
+   "meta": "on Alex's laptop · 19d ago",
+   "amount": 29,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/37ca6de2-4401-475b-998b-5540e9be7632.png"
+  },
+  {
+   "name": "Gi Studio NYC",
+   "meta": "on annie-mai's laptop · 20d ago",
+   "amount": 872,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/3f786696-2fd3-4181-98ed-5c6586022032.png"
+  },
+  {
+   "name": "Chapter",
+   "meta": "on annie-mai's laptop · 21d ago",
+   "amount": 240,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/3f6e1eaa-52ef-4f0c-9d58-268d127227ab.png"
+  },
+  {
+   "name": "SocialDay",
+   "meta": "on annie-mai's laptop · 21d ago",
+   "amount": 240,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/e97da65d-931a-49e8-9af9-6e56d2515042.png"
+  },
+  {
+   "name": "Modash",
+   "meta": "on annie-mai's laptop · 21d ago",
+   "amount": 696,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/feb5e89e-8af4-4b03-b078-d9e8660a0159.png"
+  },
+  {
+   "name": "Creator Match",
+   "meta": "on annie-mai's laptop · 21d ago",
+   "amount": 696,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/d5f02bb0-fd6b-4776-b02f-467b277289be.png"
+  },
+  {
+   "name": "Your Social Media Sherpa",
+   "meta": "on annie-mai's laptop · 21d ago",
+   "amount": 205,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/5d69104f-fc8f-4aed-b640-2c17290ed15b.png"
+  },
+  {
+   "name": "Love, your business Mom",
+   "meta": "on annie-mai's laptop · 21d ago",
+   "amount": 345,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/8fbe7e42-5fc6-4e1c-8107-c23d7050a857.png"
+  },
+  {
+   "name": "Social Listening Lounge",
+   "meta": "on annie-mai's laptop · 21d ago",
+   "amount": 345,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/077b5164-d846-44d4-81f0-68779e317868.png"
+  },
+  {
+   "name": "MicroHalos",
+   "meta": "on Ultan💡's laptop · 21d ago",
+   "amount": 41,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/6b6e5669-e72f-4bc5-925d-53c98aa32dae.png"
+  },
+  {
+   "name": "Great Outdoors Foundatio",
+   "meta": "on annie-mai's laptop · 21d ago",
+   "amount": 205,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/1d313335-0d8a-4448-badd-b051d1628045.png"
+  },
+  {
+   "name": "Slice",
+   "meta": "on annie-mai's laptop · 22d ago",
+   "amount": 439,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/aa7232ad-8449-406a-80c2-1af094654d20.png"
+  },
+  {
+   "name": "Giorgio",
+   "meta": "on Ultan💡's laptop · 23d ago",
+   "amount": 29,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/90d5c610-e14a-481c-ac69-004c38056a80.jpg"
+  },
+  {
+   "name": "Emme",
+   "meta": "on Adam's laptop · 23d ago",
+   "amount": 170,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/c2743c16-e062-401b-a5ba-455a91730cf8.png"
+  },
+  {
+   "name": "Surf Office",
+   "meta": "on giulia's laptop · 23d ago",
+   "amount": 393,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/126313b4-203b-4fb8-ab58-cfb7a847672b.png"
+  },
+  {
+   "name": "Conveo",
+   "meta": "on giulia's laptop · 23d ago",
+   "amount": 491,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/9b1a1df8-3a81-403c-81d7-a5bdfe32902a.png"
+  },
+  {
+   "name": "Granola",
+   "meta": "on giulia's laptop · 23d ago",
+   "amount": 983,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/cf8fc1a6-acfa-4c3d-805d-06533140623c.png"
+  },
+  {
+   "name": "TheKiln",
+   "meta": "on Ultan💡's laptop · 23d ago",
+   "amount": 41,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/eb67bd8f-647e-49bb-94e9-d362fd81a1c3.jpg"
+  },
+  {
+   "name": "FullEnrich",
+   "meta": "on giulia's laptop · 23d ago",
+   "amount": 786,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/8adae3f5-1420-4f0c-b12d-2234e4fce49b.png"
+  },
+  {
+   "name": "Lorikeet",
+   "meta": "on giulia's laptop · 23d ago",
+   "amount": 393,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/9e79522c-71d1-462c-9bea-43b05c7cea0b.png"
+  },
+  {
+   "name": "Sales Creator Collective",
+   "meta": "on giulia's laptop · 23d ago",
+   "amount": 246,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/9f2df6de-5fd8-4549-8f15-37e0a7aa2137.png"
+  },
+  {
+   "name": "Creatorbuzz",
+   "meta": "on giulia's laptop · 23d ago",
+   "amount": 295,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/eb39d9eb-cfcf-475f-aad6-2c7c4f2abe50.png"
+  },
+  {
+   "name": "TinyLaunch",
+   "meta": "",
+   "amount": null,
+   "sponsor": true,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/e0fb9007-b140-46dc-9637-d4f3eb3043f7.png"
+  },
+  {
+   "name": "RankControl",
+   "meta": "",
+   "amount": null,
+   "sponsor": true,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/cb023ec8-1b56-4a46-8735-5eee8a2b5537.png"
+  },
+  {
+   "name": "Palette",
+   "meta": "on giulia's laptop · 26d ago",
+   "amount": 786,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/7f3df47c-221f-4b41-8f38-eba558b71dad.svg"
+  },
+  {
+   "name": "Reelfolio",
+   "meta": "on Yassine Zaanouni's laptop · 27d ago",
+   "amount": 29,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/4e197e88-9101-47bd-aeb6-760f87e255d4.png"
+  },
+  {
+   "name": "SpacerAI",
+   "meta": "on Kevin's laptop · 29d ago",
+   "amount": 29,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/e635ac2b-7cd1-4d6b-954f-d2d8a8f5a684.png"
+  },
+  {
+   "name": "Azal.ai",
+   "meta": "",
+   "amount": null,
+   "sponsor": true,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/e9348679-479b-47f4-a9a7-4eb3d4b3dede.svg"
+  },
+  {
+   "name": "orientino",
+   "meta": "on Lukas Jud's laptop · 29d ago",
+   "amount": 363,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/97623714-0ff7-4d3a-9cea-6e4717acd03c.png"
+  },
+  {
+   "name": "Go Nimbly",
+   "meta": "on giulia's laptop · 29d ago",
+   "amount": 295,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/ef8224ec-6cc5-4ae8-bd18-f0155ff53d68.png"
+  },
+  {
+   "name": "Wildcall",
+   "meta": "on Kyler (WAVEDASH.COM)'s laptop · 29d ago",
+   "amount": 592,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/42de2470-210b-43f4-9618-2576be96bffc.png"
+  },
+  {
+   "name": "Afes",
+   "meta": "on giulia's laptop · 29d ago",
+   "amount": 246,
+   "sponsor": false,
+   "logo": "/sites/brandmylaptop-com-284b5fbe/shared/logos/5e09b6c6-6ebb-4dc4-8fb2-0767fc1fabf3.png"
+  }
+ ],
+ "logoWall": [
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/cf8fc1a6-acfa-4c3d-805d-06533140623c.png",
+   "alt": "Granola",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/3f786696-2fd3-4181-98ed-5c6586022032.png",
+   "alt": "Gi Studio NYC",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/8adae3f5-1420-4f0c-b12d-2234e4fce49b.png",
+   "alt": "FullEnrich",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/7f3df47c-221f-4b41-8f38-eba558b71dad.svg",
+   "alt": "Palette",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/feb5e89e-8af4-4b03-b078-d9e8660a0159.png",
+   "alt": "Modash",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/d5f02bb0-fd6b-4776-b02f-467b277289be.png",
+   "alt": "Creator Match",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/42de2470-210b-43f4-9618-2576be96bffc.png",
+   "alt": "Wildcall",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/9b1a1df8-3a81-403c-81d7-a5bdfe32902a.png",
+   "alt": "Conveo",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/aa7232ad-8449-406a-80c2-1af094654d20.png",
+   "alt": "Slice",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/a12c9d59-9d2c-4609-b171-f36d8b54fc5d.png",
+   "alt": "Botpool",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/126313b4-203b-4fb8-ab58-cfb7a847672b.png",
+   "alt": "Surf Office",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/9e79522c-71d1-462c-9bea-43b05c7cea0b.png",
+   "alt": "Lorikeet",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/97623714-0ff7-4d3a-9cea-6e4717acd03c.png",
+   "alt": "orientino",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/8fbe7e42-5fc6-4e1c-8107-c23d7050a857.png",
+   "alt": "Love, your business Mom",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/077b5164-d846-44d4-81f0-68779e317868.png",
+   "alt": "Social Listening Lounge",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/eb39d9eb-cfcf-475f-aad6-2c7c4f2abe50.png",
+   "alt": "Creatorbuzz",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/ef8224ec-6cc5-4ae8-bd18-f0155ff53d68.png",
+   "alt": "Go Nimbly",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/22cb75ea-d31d-4128-af8b-5e2f856d21f7.jpg",
+   "alt": "Sixtyfive Group",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/86f916d3-062b-4e5b-991d-093878d810f8.png",
+   "alt": "Well Seasoned",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/391d41f1-7a71-4d18-ab1b-ebf8f87698be.png",
+   "alt": "Pushup RPG",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/9f2df6de-5fd8-4549-8f15-37e0a7aa2137.png",
+   "alt": "Sales Creator Collective",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/5e09b6c6-6ebb-4dc4-8fb2-0767fc1fabf3.png",
+   "alt": "Afes",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/3f6e1eaa-52ef-4f0c-9d58-268d127227ab.png",
+   "alt": "Chapter",
+   "text": ""
+  },
+  {
+   "img": "/sites/brandmylaptop-com-284b5fbe/shared/logos/e97da65d-931a-49e8-9af9-6e56d2515042.png",
+   "alt": "SocialDay",
+   "text": ""
+  }
+ ],
+ "justSold": [
+  "Pushup RPG took a spot on Eliana’s lid | $228 | 6d ago",
+  "Pushup RPG took a spot on Max Reid’s lid | $29 | 6d ago",
+  "Conscious Marketing Movement took a spot on Margarida Porto’s lid | $158 | 16 Sept",
+  "Dial A Geek took a spot on Cail Wolf’s lid | $29 | 14 Sept",
+  "Sixtyfive Group took a spot on Gary Digby’s lid | $263 | 13 Sept",
+  "Well Seasoned took a spot on Gary Digby’s lid | $263 | 13 Sept"
+ ]
+}

@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+const dir = 'docs/research/brandmylaptop-com-284b5fbe';
+const g = JSON.parse(fs.readFileSync(dir + '/global-all.json', 'utf8'));
+const root = g['root-7280be29'];
+fs.mkdirSync(dir + '/_shared-html', { recursive: true });
+const pretty = (s) => s.replace(/></g, '>\n<');
+fs.writeFileSync(dir + '/_shared-html/nav.html', pretty(root.navHTML || ''));
+fs.writeFileSync(dir + '/_shared-html/footer.html', pretty(root.footerHTML || ''));
+fs.writeFileSync(dir + '/_shared-html/asides.json', JSON.stringify(root.asides.map(pretty), null, 1));
+fs.writeFileSync(dir + '/_shared-html/favicons.json', JSON.stringify(root.favicons, null, 1));
+console.log('nav bytes', (root.navHTML || '').length, 'footer bytes', (root.footerHTML || '').length, 'asides', root.asides.length);

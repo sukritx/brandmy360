@@ -1,0 +1,62 @@
+[
+ {
+  "i": 1,
+  "y": 145,
+  "h": 54,
+  "cls": "mt-4 text-[clamp(2rem,5vw,3.2rem)] font-semibold leading-[1.05] tracking-[-0.03em]"
+ },
+ {
+  "i": 3,
+  "y": 286,
+  "h": 151,
+  "cls": "mt-10 grid grid-cols-2 gap-4 lg:grid-cols-4"
+ },
+ {
+  "i": 4,
+  "y": 460,
+  "h": 419,
+  "cls": "mt-6 rounded-3xl bg-surface p-6 sm:p-10"
+ },
+ {
+  "i": 5,
+  "y": 903,
+  "h": 177,
+  "cls": "mt-6"
+ },
+ {
+  "i": 6,
+  "y": 1104,
+  "h": 715,
+  "cls": "mt-6 rounded-3xl bg-surface p-6 sm:p-10"
+ },
+ {
+  "i": 7,
+  "y": 1842,
+  "h": 1493,
+  "cls": "mt-6 rounded-3xl bg-surface p-6 sm:p-10"
+ },
+ {
+  "i": 8,
+  "y": 3359,
+  "h": 650,
+  "cls": "mt-6 rounded-3xl bg-surface p-6 sm:p-10"
+ },
+ {
+  "i": 9,
+  "y": 4034,
+  "h": 183,
+  "cls": "mt-6 grid grid-cols-1 gap-4 md:grid-cols-2"
+ },
+ {
+  "i": 10,
+  "y": 4265,
+  "h": 215,
+  "cls": "mt-12"
+ },
+ {
+  "i": 11,
+  "y": 4503,
+  "h": 288,
+  "cls": "mt-6 rounded-3xl border border-hairline bg-white p-6 sm:p-10"
+ }
+]

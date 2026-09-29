@@ -1,0 +1,27 @@
+{
+ "root": {
+  "desktopH": 9649,
+  "mobileH": 17020,
+  "errors": []
+ },
+ "brands": {
+  "desktopH": 6126,
+  "mobileH": 8211,
+  "errors": []
+ },
+ "briefs": {
+  "desktopH": 2111,
+  "mobileH": 3272,
+  "errors": []
+ },
+ "stats": {
+  "desktopH": 5457,
+  "mobileH": 8492,
+  "errors": []
+ },
+ "sell": {
+  "desktopH": 1699,
+  "mobileH": 2893,
+  "errors": []
+ }
+}

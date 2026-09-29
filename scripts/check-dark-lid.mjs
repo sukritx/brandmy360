@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const c = fs.readFileSync('docs/research/brandmylaptop-com-284b5fbe/root-7280be29/grid-card-full.html', 'utf8');
+const dark = c.includes('rgb(59, 59, 61)');
+console.log('grid card dark?', dark);
+const radials = [...new Set([...c.matchAll(/radial-gradient\([^)]*\)[^"]*/g)].map((m) => m[0]))];
+console.log('radials:', radials);
+const appleColors = [...new Set([...c.matchAll(/class="w-full text-\[#[0-9a-f]+\][^"]*"/gi)].map((m) => m[0]))];
+console.log('apple colors:', appleColors);
+const shadows = [...new Set([...c.matchAll(/\[filter:drop-shadow\([^\]]*\)[^\]]*\]/g)].map((m) => m[0]))];
+console.log('filter classes:', shadows);

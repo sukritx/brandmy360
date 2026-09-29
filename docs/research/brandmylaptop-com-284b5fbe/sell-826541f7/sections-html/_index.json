@@ -1,0 +1,26 @@
+[
+ {
+  "i": 2,
+  "y": 0,
+  "h": 61,
+  "cls": "border-b border-hairline/40"
+ },
+ {
+  "i": 3,
+  "y": 61,
+  "h": 1073,
+  "cls": "mx-auto max-w-5xl px-5 py-8 sm:px-6 md:py-16"
+ },
+ {
+  "i": 4,
+  "y": 1134,
+  "h": 565,
+  "cls": "border-t border-hairline"
+ },
+ {
+  "i": 10,
+  "y": 0,
+  "h": 900,
+  "cls": "fixed inset-0 z-[60] flex items-end justify-center bg-ink/40 px-4 py-6 sm:items-center"
+ }
+]

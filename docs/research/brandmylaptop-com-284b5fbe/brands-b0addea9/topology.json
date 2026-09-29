@@ -1,0 +1,247 @@
+{
+ "rows": [
+  {
+   "d": 0,
+   "tag": "body",
+   "cls": "has-ads has-ad-rails",
+   "y": 0,
+   "h": 6126,
+   "w": 1440,
+   "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid SPONSORS Azal.ai Intelligence ",
+   "kidCount": 14
+  },
+  {
+   "d": 1,
+   "tag": "nav",
+   "cls": "sticky top-0 z-50 border-b border-hairline/70 bg-white/70 backdrop-blur-xl",
+   "y": 0,
+   "h": 53,
+   "w": 1004,
+   "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mx-auto flex h-13 max-w-6xl items-center justify-between px-6 py-3",
+   "y": 0,
+   "h": 52,
+   "w": 1004,
+   "text": "Laptops Brands Briefs Stats How it works Display currency € EUR $ USD £ GBP Sell your lid",
+   "kidCount": 3
+  },
+  {
+   "d": 1,
+   "tag": "aside",
+   "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+   "y": 80,
+   "h": 804,
+   "w": 190,
+   "text": "SPONSORS Azal.ai Intelligence Software RankControl AI SEO Platform TinyLaunch Grow your DR on autopilot! Your startup he",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mb-2 shrink-0 text-[11px] uppercase tracking-wide text-ink-2/70",
+   "y": 80,
+   "h": 17,
+   "w": 190,
+   "text": "SPONSORS",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "ul",
+   "cls": "flex min-h-0 flex-1 flex-col gap-3",
+   "y": 105,
+   "h": 780,
+   "w": 190,
+   "text": "Azal.ai Intelligence Software RankControl AI SEO Platform TinyLaunch Grow your DR on autopilot! Your startup here Your s",
+   "kidCount": 6
+  },
+  {
+   "d": 1,
+   "tag": "aside",
+   "cls": "pointer-events-none fixed bottom-4 top-20 z-30 flex w-[190px] animate-rail-in flex-col min-[1800px]:",
+   "y": 80,
+   "h": 804,
+   "w": 190,
+   "text": "SPONSORS Your startup here Your startup here Your startup here Your startup here Your startup here Your startup here",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mb-2 shrink-0 text-[11px] uppercase tracking-wide text-ink-2/70",
+   "y": 80,
+   "h": 17,
+   "w": 190,
+   "text": "SPONSORS",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "ul",
+   "cls": "flex min-h-0 flex-1 flex-col gap-3",
+   "y": 105,
+   "h": 780,
+   "w": 190,
+   "text": "Your startup here Your startup here Your startup here Your startup here Your startup here Your startup here",
+   "kidCount": 6
+  },
+  {
+   "d": 1,
+   "tag": "main",
+   "cls": "mx-auto max-w-5xl px-6 pb-24 pt-14",
+   "y": 53,
+   "h": 5508,
+   "w": 1004,
+   "text": "BrandMyLaptop / Brands Get your logo on creators’ laptops. They advertise for you, and you go everywhere they go. Let cr",
+   "kidCount": 12
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "text-[13px] text-ink-2",
+   "y": 109,
+   "h": 20,
+   "w": 956,
+   "text": "BrandMyLaptop / Brands",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "h1",
+   "cls": "mt-4 max-w-[18ch] text-[clamp(2rem,5vw,3.4rem)] font-medium leading-[1.02] tracking-[-0.04em]",
+   "y": 145,
+   "h": 111,
+   "w": 632,
+   "text": "Get your logo on creators’ laptops.",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mt-5 max-w-[58ch] text-[17px] leading-relaxed text-ink-2",
+   "y": 275,
+   "h": 28,
+   "w": 622,
+   "text": "They advertise for you, and you go everywhere they go.",
+   "kidCount": 0
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-10 grid grid-cols-1 gap-4 md:grid-cols-2",
+   "y": 343,
+   "h": 183,
+   "w": 956,
+   "text": "Let creators come to you Name the audience you are looking for and your budget. Creators who fit apply; you review them.",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "dl",
+   "cls": "mt-10 grid grid-cols-1 gap-4 sm:grid-cols-3",
+   "y": 566,
+   "h": 105,
+   "w": 956,
+   "text": "Brands on laptops 40 Paid to creators $13,794 A spot from $26",
+   "kidCount": 3
+  },
+  {
+   "d": 2,
+   "tag": "p",
+   "cls": "mt-4 text-[14px] text-ink-2",
+   "y": 687,
+   "h": 21,
+   "w": 956,
+   "text": "Those are asking prices. See what spots have actually sold for →",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-12",
+   "y": 756,
+   "h": 390,
+   "w": 956,
+   "text": "Already on a lid",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-12 rounded-2xl border border-hairline bg-white p-6 sm:p-8",
+   "y": 1193,
+   "h": 171,
+   "w": 956,
+   "text": "How it compares Months A newsletter slot lasts one send. Every time it opens A podcast read is heard once. In the room N",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-12",
+   "y": 1413,
+   "h": 121,
+   "w": 956,
+   "text": "Browse by who carries it Developers Indie hackers and founders Designers Content creators Marketers Freelancers Students",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-12 overflow-hidden rounded-2xl border border-hairline bg-white",
+   "y": 1581,
+   "h": 313,
+   "w": 956,
+   "text": "What a spot is One price, paid once The creator sets the term — 3, 6, 12 or 24 months. Die-cut vinyl Printed at the size",
+   "kidCount": 2
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-16 rounded-3xl border border-hairline bg-white p-6 sm:p-8",
+   "y": 1958,
+   "h": 272,
+   "w": 956,
+   "text": "What sold this week, every week One email on Monday: the spots that sold, what brands paid for them, and the laptops tha",
+   "kidCount": 3
+  },
+  {
+   "d": 2,
+   "tag": "section",
+   "cls": "mt-16 border-t border-hairline pt-10",
+   "y": 2294,
+   "h": 3172,
+   "w": 956,
+   "text": "Brands advertising here 40 companies have put their logo on somebody’s laptop, $13,794 paid straight to the people carry",
+   "kidCount": 4
+  },
+  {
+   "d": 1,
+   "tag": "footer",
+   "cls": "border-t border-hairline",
+   "y": 5561,
+   "h": 565,
+   "w": 1004,
+   "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+   "kidCount": 1
+  },
+  {
+   "d": 2,
+   "tag": "div",
+   "cls": "mx-auto max-w-5xl px-6 py-12",
+   "y": 5562,
+   "h": 564,
+   "w": 1004,
+   "text": "BrandMyLaptop Print stickers, print money. built by Vincent Started as BrandMyMac — one MacBook, twenty sticker spots, $",
+   "kidCount": 3
+  }
+ ],
+ "mainTag": "BODY",
+ "mainCls": "has-ads has-ad-rails",
+ "scrollH": 6126
+}
